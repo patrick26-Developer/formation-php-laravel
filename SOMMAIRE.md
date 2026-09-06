@@ -124,12 +124,12 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 | # | Module | Statut |
 |---|---|---|
-| 08.1 | [Jobs, Queues, Events, Listeners](08-laravel-avance/01-jobs-queues-events-listeners/README.md) | 📋 |
-| 08.2 | [Cache et optimisation de performance](08-laravel-avance/02-cache-optimisation-performance/README.md) | 📋 |
-| 08.3 | [Tests avec Pest et PHPUnit dans Laravel](08-laravel-avance/03-tests-pest-phpunit-laravel/README.md) | 📋 |
-| 08.4 | [Service Providers et packages personnalisés](08-laravel-avance/04-packages-service-providers-personnalises/README.md) | 📋 |
-| 08.5 | [Architecture modulaire et multi-tenancy](08-laravel-avance/05-architecture-modulaire/README.md) | 📋 |
-| 🧩 | [Mini-projet : SaaS multi-utilisateurs](08-laravel-avance/projet-mini-05-saas-multi-utilisateurs/README.md) | 📋 |
+| 08.1 | [Jobs, Queues, Events, Listeners](08-laravel-avance/01-jobs-queues-events-listeners/README.md) | ✅ |
+| 08.2 | [Cache et optimisation de performance](08-laravel-avance/02-cache-optimisation-performance/README.md) | ✅ |
+| 08.3 | [Tests avec Pest et PHPUnit dans Laravel](08-laravel-avance/03-tests-pest-phpunit-laravel/README.md) | ✅ |
+| 08.4 | [Service Providers et packages personnalisés](08-laravel-avance/04-packages-service-providers-personnalises/README.md) | ✅ |
+| 08.5 | [Architecture modulaire et multi-tenancy](08-laravel-avance/05-architecture-modulaire/README.md) | ✅ |
+| 🧩 | [Mini-projet : SaaS multi-utilisateurs](08-laravel-avance/projet-mini-05-saas-multi-utilisateurs/README.md) | ✅ |
 
 ## Niveau 09 — API REST avec Laravel
 
@@ -211,4 +211,4 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 ## Progression globale
 
-**56 / 91 modules rédigés** — Niveaux 00 à 07 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
+**62 / 91 modules rédigés** — Niveaux 00 à 08 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
