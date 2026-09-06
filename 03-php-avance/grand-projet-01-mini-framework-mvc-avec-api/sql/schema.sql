@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS mini_framework CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE mini_framework;
+
+CREATE TABLE IF NOT EXISTS taches (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titre VARCHAR(150) NOT NULL,
+    description TEXT NULL,
+    terminee BOOLEAN NOT NULL DEFAULT FALSE,
+    creee_le DATETIME DEFAULT CURRENT_TIMESTAMP
+);

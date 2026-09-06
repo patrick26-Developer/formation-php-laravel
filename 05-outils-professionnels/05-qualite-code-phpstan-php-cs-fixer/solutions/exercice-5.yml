@@ -1,0 +1,28 @@
+name: Tests et qualité
+
+on: [push, pull_request]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+      - run: composer install --prefer-dist --no-progress
+      - run: ./vendor/bin/phpunit
+
+      - name: Vérifier le style PSR-12
+        run: ./vendor/bin/php-cs-fixer fix --dry-run --diff
+
+      - name: Analyse statique PHPStan
+        run: ./vendor/bin/phpstan analyse
+
+# Test de vérification : poussez un commit introduisant volontairement un
+# style non conforme (par exemple "function foo(){" avec accolade collée).
+# Le job "tests" continuera de réussir si PHPUnit passe, mais l'étape
+# "Vérifier le style PSR-12" échouera spécifiquement (--dry-run détecte la
+# non-conformité sans corriger), rendant le job global rouge à CETTE étape
+# précise — visible clairement dans l'onglet Actions, distinct d'un échec
+# de test fonctionnel.

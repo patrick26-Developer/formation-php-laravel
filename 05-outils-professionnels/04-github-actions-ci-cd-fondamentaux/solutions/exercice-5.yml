@@ -1,0 +1,27 @@
+name: Pipeline avec jobs dépendants
+
+on: push
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+      - run: composer install --prefer-dist --no-progress
+      - run: ./vendor/bin/phpunit
+
+  qualite:
+    runs-on: ubuntu-latest
+    needs: tests # n'est déclenché que si le job "tests" a réussi
+    steps:
+      - uses: actions/checkout@v4
+      - name: Vérifier le style de code (simulation)
+        run: echo "Simulation : ./vendor/bin/php-cs-fixer fix --dry-run --diff"
+
+# Sans "needs: tests", les deux jobs s'exécuteraient EN PARALLÈLE par défaut.
+# Avec "needs: tests", "qualite" attend explicitement la fin de "tests" et
+# ne démarre QUE si celui-ci se termine avec succès — utile quand une étape
+# n'a aucun intérêt à s'exécuter si les tests de base échouent déjà.

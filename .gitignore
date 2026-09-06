@@ -1,0 +1,33 @@
+# Dépendances
+/vendor/
+/node_modules/
+
+# Environnement
+.env
+.env.*
+!.env.example
+
+# Laravel
+/public/hot
+/public/storage
+/storage/*.key
+/bootstrap/cache/*.php
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*.log
+
+# Outils
+/.phpunit.cache
+/.pest
+.php-cs-fixer.cache
+.phpstan-result-cache
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
