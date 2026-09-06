@@ -35,7 +35,7 @@
 ## Fait ✅ (ajout)
 
 - [x] Licence choisie et ajoutée : MIT ([LICENSE](LICENSE))
-- [ ] Dépôt GitHub créé et premier push effectué (`patrick26-Developer/formation-php-laravel`) — en cours
+- [x] Dépôt GitHub créé et premier push effectué : [patrick26-Developer/formation-php-laravel](https://github.com/patrick26-Developer/formation-php-laravel)
 
 ## Notes de suivi
 

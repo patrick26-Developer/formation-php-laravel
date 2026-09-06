@@ -50,3 +50,9 @@
 - Construction complète du **mini-projet Blog avec CRUD Laravel** : deux relations Eloquent imbriquées (Category → Article → Comment), eager loading pour éviter le problème N+1, Form Requests séparés création/modification avec règle `unique` conditionnelle, formulaire Blade factorisé en partiel partagé, factories/seeder générant un jeu de données réaliste — avec kit documentaire complet.
 - Décision d'architecture notée : ce mini-projet n'inclut volontairement aucune authentification, réservée au mini-projet du Niveau 07 qui réutilisera cette même base.
 - Mise à jour de [SOMMAIRE.md](SOMMAIRE.md) et [ROADMAP.md](ROADMAP.md) : Niveau 06 marqué disponible, passage au Niveau 07 (Laravel Intermédiaire).
+
+## 2026-09-06 — Publication sur GitHub
+
+- Ajout de la licence MIT ([LICENSE](LICENSE)).
+- Initialisation du dépôt Git local, premier commit regroupant l'intégralité de la formation (Niveaux 00 à 07).
+- Création et publication du dépôt public [patrick26-Developer/formation-php-laravel](https://github.com/patrick26-Developer/formation-php-laravel), fusion propre avec le commit initial généré par GitHub (licence), premier push effectué.
