@@ -137,13 +137,13 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 | # | Module | Statut |
 |---|---|---|
-| 09.1 | [Conception d'API RESTful : bonnes pratiques](09-api-rest-laravel/01-conception-api-restful-bonnes-pratiques/README.md) | 📋 |
-| 09.2 | [API Resources et transformation des données](09-api-rest-laravel/02-api-resources-transformers/README.md) | 📋 |
-| 09.3 | [Authentification API avec Sanctum](09-api-rest-laravel/03-authentification-api-sanctum/README.md) | 📋 |
-| 09.4 | [OAuth2 avec Passport](09-api-rest-laravel/04-authentification-api-passport-oauth2/README.md) | 📋 |
-| 09.5 | [Versioning et documentation OpenAPI/Swagger](09-api-rest-laravel/05-versioning-documentation-openapi/README.md) | 📋 |
-| 09.6 | [Rate limiting et sécurité des API](09-api-rest-laravel/06-rate-limiting-securite-api/README.md) | 📋 |
-| 🧩 | [Mini-projet : API REST complète](09-api-rest-laravel/projet-mini-06-api-rest-complete/README.md) | 📋 |
+| 09.1 | [Conception d'API RESTful : bonnes pratiques](09-api-rest-laravel/01-conception-api-restful-bonnes-pratiques/README.md) | ✅ |
+| 09.2 | [API Resources et transformation des données](09-api-rest-laravel/02-api-resources-transformers/README.md) | ✅ |
+| 09.3 | [Authentification API avec Sanctum](09-api-rest-laravel/03-authentification-api-sanctum/README.md) | ✅ |
+| 09.4 | [OAuth2 avec Passport](09-api-rest-laravel/04-authentification-api-passport-oauth2/README.md) | ✅ |
+| 09.5 | [Versioning et documentation OpenAPI/Swagger](09-api-rest-laravel/05-versioning-documentation-openapi/README.md) | ✅ |
+| 09.6 | [Rate limiting et sécurité des API](09-api-rest-laravel/06-rate-limiting-securite-api/README.md) | ✅ |
+| 🧩 | [Mini-projet : API REST complète](09-api-rest-laravel/projet-mini-06-api-rest-complete/README.md) | ✅ |
 
 ## Niveau 10 — Fullstack avec Livewire
 
@@ -211,4 +211,4 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 ## Progression globale
 
-**62 / 91 modules rédigés** — Niveaux 00 à 08 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
+**69 / 91 modules rédigés** — Niveaux 00 à 09 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé, API REST Laravel). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
