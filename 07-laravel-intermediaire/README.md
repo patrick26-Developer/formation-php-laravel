@@ -1,6 +1,6 @@
 # Niveau 07 — Laravel Intermédiaire
 
-> **Statut :** 🚧 En cours · Palier : Intermédiaire
+> **Statut :** ✅ Disponible · Palier : Intermédiaire
 
 Ce niveau approfondit Eloquent (relations avancées, scopes), et couvre ce qu'il faut à toute application Laravel professionnelle : middlewares, authentification, autorisations, upload de fichiers, notifications par email.
 

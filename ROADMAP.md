@@ -15,22 +15,22 @@
 - [x] Niveau 04 — Bases de données approfondies (4/4 modules : modélisation, SQL avancé, optimisation, exercices pratiques consolidés)
 - [x] Niveau 05 — Outils professionnels (5/5 modules : Git avancé, Docker, Docker Compose PHP/MySQL/Nginx, GitHub Actions CI/CD, PHPStan/PHP-CS-Fixer)
 - [x] Niveau 06 — Laravel Fondamentaux (7/7 modules + mini-projet Blog avec CRUD Laravel, relations Eloquent, eager loading, kit documentaire complet)
+- [x] Niveau 07 — Laravel Intermédiaire (7/7 modules + mini-projet Plateforme d'annonces : auth Breeze, Policies, upload, notifications, kit documentaire complet)
 
 ## En cours 🚧
 
-- [ ] Niveau 07 — Laravel Intermédiaire (0/7 modules + mini-projet)
+- [ ] Niveau 08 — Laravel Avancé (0/5 modules + mini-projet)
 
 ## À venir 📋 (dans l'ordre de priorité)
 
-1. Niveau 07 — Laravel Intermédiaire
-2. Niveau 08 — Laravel Avancé
-3. Niveau 09 — API REST Laravel
-4. Niveau 10 — Fullstack Livewire
-5. Niveau 11 — DevOps avancé
-6. Niveau 12 et 13 — Projets sans BDD + grands projets portfolio
-7. Niveau 14 — Préparation professionnelle
-8. Cheatsheets et ressources transversales ([ressources/](ressources/))
-9. Passe de traduction anglaise (README.en.md) une fois le contenu français stabilisé
+1. Niveau 08 — Laravel Avancé
+2. Niveau 09 — API REST Laravel
+3. Niveau 10 — Fullstack Livewire
+4. Niveau 11 — DevOps avancé
+5. Niveau 12 et 13 — Projets sans BDD + grands projets portfolio
+6. Niveau 14 — Préparation professionnelle
+7. Cheatsheets et ressources transversales ([ressources/](ressources/))
+8. Passe de traduction anglaise (README.en.md) une fois le contenu français stabilisé
 
 ## Fait ✅ (ajout)
 

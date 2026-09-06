@@ -56,3 +56,9 @@
 - Ajout de la licence MIT ([LICENSE](LICENSE)).
 - Initialisation du dépôt Git local, premier commit regroupant l'intégralité de la formation (Niveaux 00 à 07).
 - Création et publication du dépôt public [patrick26-Developer/formation-php-laravel](https://github.com/patrick26-Developer/formation-php-laravel), fusion propre avec le commit initial généré par GitHub (licence), premier push effectué.
+
+## 2026-09-06 — Niveau 07 complet (Laravel Intermédiaire)
+
+- Rédaction complète des 7 modules du Niveau 07 : relations Eloquent avancées (`belongsToMany`, polymorphiques, `hasManyThrough`, eager loading contre le N+1), scopes/accessors/mutators, middlewares (avec paramètres, ordre d'exécution), authentification Breeze, autorisations (Policies, Gates, délégation depuis les Form Requests), upload de fichiers (Storage, nettoyage via Model Events), notifications multi-canal (mail + database) — chaque module reliant le mécanisme Laravel à son équivalent construit à la main aux niveaux précédents.
+- Construction complète du **mini-projet Plateforme d'annonces** : authentification Breeze, `AnnoncePolicy` (seul l'auteur modifie/supprime), upload et remplacement d'images avec nettoyage automatique, favoris (`belongsToMany`), notification (email + base de données) déclenchée par un visiteur anonyme via un formulaire de contact public — avec kit documentaire complet.
+- Mise à jour de [SOMMAIRE.md](SOMMAIRE.md) et [ROADMAP.md](ROADMAP.md) : Niveau 07 marqué disponible (56/91 modules), passage au Niveau 08 (Laravel Avancé).

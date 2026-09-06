@@ -109,14 +109,14 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 | # | Module | Statut |
 |---|---|---|
-| 07.1 | [Relations Eloquent avancées](07-laravel-intermediaire/01-eloquent-relations-avancees/README.md) | 📋 |
-| 07.2 | [Scopes, accessors, mutators](07-laravel-intermediaire/02-eloquent-scopes-accessors-mutators/README.md) | 📋 |
-| 07.3 | [Middlewares et Form Requests](07-laravel-intermediaire/03-middlewares-form-requests/README.md) | 📋 |
-| 07.4 | [Authentification Breeze/Fortify](07-laravel-intermediaire/04-authentification-breeze-fortify/README.md) | 📋 |
-| 07.5 | [Autorisations : Policies et Gates](07-laravel-intermediaire/05-autorisations-policies-gates/README.md) | 📋 |
-| 07.6 | [Upload de fichiers et Storage](07-laravel-intermediaire/06-upload-fichiers-storage/README.md) | 📋 |
-| 07.7 | [Notifications et emails](07-laravel-intermediaire/07-notifications-mail/README.md) | 📋 |
-| 🧩 | [Mini-projet : Plateforme d'annonces](07-laravel-intermediaire/projet-mini-04-plateforme-annonces/README.md) | 📋 |
+| 07.1 | [Relations Eloquent avancées](07-laravel-intermediaire/01-eloquent-relations-avancees/README.md) | ✅ |
+| 07.2 | [Scopes, accessors, mutators](07-laravel-intermediaire/02-eloquent-scopes-accessors-mutators/README.md) | ✅ |
+| 07.3 | [Middlewares et Form Requests](07-laravel-intermediaire/03-middlewares-form-requests/README.md) | ✅ |
+| 07.4 | [Authentification Breeze/Fortify](07-laravel-intermediaire/04-authentification-breeze-fortify/README.md) | ✅ |
+| 07.5 | [Autorisations : Policies et Gates](07-laravel-intermediaire/05-autorisations-policies-gates/README.md) | ✅ |
+| 07.6 | [Upload de fichiers et Storage](07-laravel-intermediaire/06-upload-fichiers-storage/README.md) | ✅ |
+| 07.7 | [Notifications et emails](07-laravel-intermediaire/07-notifications-mail/README.md) | ✅ |
+| 🧩 | [Mini-projet : Plateforme d'annonces](07-laravel-intermediaire/projet-mini-04-plateforme-annonces/README.md) | ✅ |
 
 ## Niveau 08 — Laravel Avancé
 
@@ -211,4 +211,4 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 ## Progression globale
 
-**48 / 91 modules rédigés** — Niveaux 00 à 06 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
+**56 / 91 modules rédigés** — Niveaux 00 à 07 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
