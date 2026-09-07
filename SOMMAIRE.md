@@ -163,11 +163,11 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 | # | Module | Statut |
 |---|---|---|
-| 11.1 | [Dockerisation complète d'une application Laravel](11-devops-docker-cicd-avance/01-dockerisation-application-laravel-complete/README.md) | 📋 |
-| 11.2 | [Environnements multiples (dev/staging/prod)](11-devops-docker-cicd-avance/02-environnements-multiples-dev-staging-prod/README.md) | 📋 |
-| 11.3 | [Pipeline CI/CD complet avec GitHub Actions](11-devops-docker-cicd-avance/03-pipeline-cicd-github-actions-laravel/README.md) | 📋 |
-| 11.4 | [Déploiement en production](11-devops-docker-cicd-avance/04-deploiement-production/README.md) | 📋 |
-| 11.5 | [Monitoring et gestion des logs](11-devops-docker-cicd-avance/05-monitoring-logs/README.md) | 📋 |
+| 11.1 | [Dockerisation complète d'une application Laravel](11-devops-docker-cicd-avance/01-dockerisation-application-laravel-complete/README.md) | ✅ |
+| 11.2 | [Environnements multiples (dev/staging/prod)](11-devops-docker-cicd-avance/02-environnements-multiples-dev-staging-prod/README.md) | ✅ |
+| 11.3 | [Pipeline CI/CD complet avec GitHub Actions](11-devops-docker-cicd-avance/03-pipeline-cicd-github-actions-laravel/README.md) | ✅ |
+| 11.4 | [Déploiement en production](11-devops-docker-cicd-avance/04-deploiement-production/README.md) | ✅ |
+| 11.5 | [Monitoring et gestion des logs](11-devops-docker-cicd-avance/05-monitoring-logs/README.md) | ✅ |
 
 ## Niveau 12 — Projets sans base de données
 
@@ -211,4 +211,4 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 ## Progression globale
 
-**74 / 91 modules rédigés** — Niveaux 00 à 10 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé, API REST Laravel, Fullstack Livewire). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
+**79 / 91 modules rédigés** — Niveaux 00 à 11 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé, API REST Laravel, Fullstack Livewire, DevOps avancé). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
