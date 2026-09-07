@@ -140,7 +140,7 @@ test('sending a message dispatches a notification job', function () {
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

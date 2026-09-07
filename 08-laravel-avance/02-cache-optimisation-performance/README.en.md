@@ -107,7 +107,7 @@ php artisan optimize:clear         # cancels all of them (do this after every de
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
