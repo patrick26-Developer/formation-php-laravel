@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Formation PHP → Laravel</title>
+  <meta name="description" content="Formation PHP → Laravel 100% gratuite, du niveau débutant à expert.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐘</text></svg>">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root {
+      --theme-color: #ff2d20; /* rouge Laravel */
+    }
+    .sidebar { padding-top: 10px; }
+    .app-name-link img { height: 28px; }
+    .markdown-section table { display: table; width: 100%; }
+    .markdown-section code { background-color: rgba(255,45,32,0.06); }
+  </style>
+</head>
+<body>
+  <div id="app">Chargement de la formation…</div>
+  <script>
+    window.$docsify = {
+      name: '🐘 PHP → Laravel',
+      repo: 'https://github.com/patrick26-Developer/formation-php-laravel',
+      loadSidebar: true,
+      subMaxLevel: 0,
+      auto2top: true,
+      homepage: 'README.md',
+      coverpage: false,
+      loadNavbar: false,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Rechercher dans la formation…',
+        noData: 'Aucun résultat.',
+        depth: 3
+      },
+      formatUpdated: '{MM}/{DD}/{YYYY}',
+      copyCode: {
+        buttonText: 'Copier',
+        errorText: 'Erreur',
+        successText: 'Copié !'
+      }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-sql.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-docker.min.js"></script>
+</body>
+</html>
