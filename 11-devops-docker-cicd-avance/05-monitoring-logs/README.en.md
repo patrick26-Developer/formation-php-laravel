@@ -112,4 +112,4 @@ See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
 
 ---
 
-**Previous:** [11.4 — Production Deployment](../04-deploiement-production/README.en.md) · **Next:** [Level 12 — Projects Without a Database](../../12-projets-sans-base-de-donnees/README.md) *(French only)*
+**Previous:** [11.4 — Production Deployment](../04-deploiement-production/README.en.md) · **Next:** [Level 12 — Projects Without a Database](../../12-projets-sans-base-de-donnees/README.en.md)

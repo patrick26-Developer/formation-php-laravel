@@ -173,13 +173,13 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Level 12 — Projects Without a Database
 
-> Tier: Cross-cutting practice · [Level index](12-projets-sans-base-de-donnees/README.md)
+> Tier: Cross-cutting practice · [Level index](12-projets-sans-base-de-donnees/README.en.md)
 
 | # | Module | Status |
 |---|---|---|
-| 🧩 | [Command-line PDF generator](12-projets-sans-base-de-donnees/projet-01-generateur-pdf-cli/README.md) | 📋 |
-| 🧩 | [Consuming an external API](12-projets-sans-base-de-donnees/projet-02-api-consommation-externe/README.md) | 📋 |
-| 🧩 | [CLI tool with Artisan](12-projets-sans-base-de-donnees/projet-03-outil-ligne-de-commande-artisan/README.md) | 📋 |
+| 🧩 | [Command-line PDF generator](12-projets-sans-base-de-donnees/projet-01-generateur-pdf-cli/README.en.md) | ✅ |
+| 🧩 | [Consuming an external API](12-projets-sans-base-de-donnees/projet-02-api-consommation-externe/README.en.md) | ✅ |
+| 🧩 | [CLI tool with Artisan](12-projets-sans-base-de-donnees/projet-03-outil-ligne-de-commande-artisan/README.en.md) | ✅ |
 
 ## Level 13 — Complete Minimal Large Projects
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 11 fully available** (79/91 modules), translated level by level following the same order as the original French authoring. Levels 12+ (Projects Without a Database onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 12 fully available** (82/91 modules), translated level by level following the same order as the original French authoring. Levels 13+ (Complete Minimal Large Projects onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.

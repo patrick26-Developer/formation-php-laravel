@@ -26,4 +26,4 @@ You discovered Docker and a first CI pipeline in [level 05](../05-outils-profess
 - Deploy a Laravel application to a real server.
 - Monitor an application in production and diagnose an incident via logs.
 
-**Previous:** [Level 10 — Fullstack Livewire](../10-fullstack-laravel-livewire/README.en.md) · **Next:** [Level 12 — Projects Without a Database](../12-projets-sans-base-de-donnees/README.md) *(French only)*
+**Previous:** [Level 10 — Fullstack Livewire](../10-fullstack-laravel-livewire/README.en.md) · **Next:** [Level 12 — Projects Without a Database](../12-projets-sans-base-de-donnees/README.en.md)
