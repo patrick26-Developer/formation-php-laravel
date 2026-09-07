@@ -18,19 +18,19 @@
 - [x] Niveau 07 — Laravel Intermédiaire (7/7 modules + mini-projet Plateforme d'annonces : auth Breeze, Policies, upload, notifications, kit documentaire complet)
 - [x] Niveau 08 — Laravel Avancé (5/5 modules + mini-projet SaaS multi-utilisateurs : multi-tenancy, cache, jobs, tests Pest d'isolation, kit documentaire complet)
 - [x] Niveau 09 — API REST Laravel (6/6 modules + mini-projet API REST complète : Sanctum, Resources, rate limiting, réutilisation intégrale du domaine du niveau 07, kit documentaire complet)
+- [x] Niveau 10 — Fullstack Livewire (4/4 modules + mini-projet Dashboard admin Livewire : composants réactifs, Alpine.js, tables tri/filtre/recherche, tests Livewire+Pest, kit documentaire complet)
 
 ## En cours 🚧
 
-- [ ] Niveau 10 — Fullstack Livewire (0/4 modules + mini-projet)
+- [ ] Niveau 11 — DevOps avancé (0/5 modules)
 
 ## À venir 📋 (dans l'ordre de priorité)
 
-1. Niveau 10 — Fullstack Livewire
-2. Niveau 11 — DevOps avancé
-3. Niveau 12 et 13 — Projets sans BDD + grands projets portfolio
-4. Niveau 14 — Préparation professionnelle
-5. Cheatsheets et ressources transversales ([ressources/](ressources/))
-6. Passe de traduction anglaise (README.en.md) une fois le contenu français stabilisé
+1. Niveau 11 — DevOps avancé
+2. Niveau 12 et 13 — Projets sans BDD + grands projets portfolio
+3. Niveau 14 — Préparation professionnelle
+4. Cheatsheets et ressources transversales ([ressources/](ressources/))
+5. Passe de traduction anglaise (README.en.md) une fois le contenu français stabilisé
 
 ## Fait ✅ (ajout)
 

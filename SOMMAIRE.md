@@ -151,11 +151,11 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 | # | Module | Statut |
 |---|---|---|
-| 10.1 | [Livewire : les fondamentaux](10-fullstack-laravel-livewire/01-livewire-fondamentaux/README.md) | 📋 |
-| 10.2 | [Composants réactifs et formulaires](10-fullstack-laravel-livewire/02-composants-reactifs-formulaires/README.md) | 📋 |
-| 10.3 | [Alpine.js pour l'interactivité légère](10-fullstack-laravel-livewire/03-alpine-js-interactivite/README.md) | 📋 |
-| 10.4 | [Tables dynamiques : tri, filtre, recherche](10-fullstack-laravel-livewire/04-tables-dynamiques-tri-filtre-recherche/README.md) | 📋 |
-| 🧩 | [Mini-projet : Dashboard admin Livewire](10-fullstack-laravel-livewire/projet-mini-07-dashboard-admin-livewire/README.md) | 📋 |
+| 10.1 | [Livewire : les fondamentaux](10-fullstack-laravel-livewire/01-livewire-fondamentaux/README.md) | ✅ |
+| 10.2 | [Composants réactifs et formulaires](10-fullstack-laravel-livewire/02-composants-reactifs-formulaires/README.md) | ✅ |
+| 10.3 | [Alpine.js pour l'interactivité légère](10-fullstack-laravel-livewire/03-alpine-js-interactivite/README.md) | ✅ |
+| 10.4 | [Tables dynamiques : tri, filtre, recherche](10-fullstack-laravel-livewire/04-tables-dynamiques-tri-filtre-recherche/README.md) | ✅ |
+| 🧩 | [Mini-projet : Dashboard admin Livewire](10-fullstack-laravel-livewire/projet-mini-07-dashboard-admin-livewire/README.md) | ✅ |
 
 ## Niveau 11 — DevOps : Docker & CI/CD avancés
 
@@ -211,4 +211,4 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 ## Progression globale
 
-**69 / 91 modules rédigés** — Niveaux 00 à 09 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé, API REST Laravel). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
+**74 / 91 modules rédigés** — Niveaux 00 à 10 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé, API REST Laravel, Fullstack Livewire). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
