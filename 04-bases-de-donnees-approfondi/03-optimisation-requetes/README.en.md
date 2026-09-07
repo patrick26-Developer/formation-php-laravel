@@ -92,7 +92,7 @@ Already covered in [module 03.6](../../03-php-avance/06-performance-et-optimisat
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

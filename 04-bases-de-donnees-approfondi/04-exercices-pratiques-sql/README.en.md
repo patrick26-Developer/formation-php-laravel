@@ -61,7 +61,7 @@ Insert some test data (at least 5 customers, 8 products, 10 orders each with sev
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)* — about ten progressive exercises covering modeling, multiple joins, aggregations, transactions, and optimization.
+See [EXERCICES.md](EXERCICES.en.md) — about ten progressive exercises covering modeling, multiple joins, aggregations, transactions, and optimization.
 
 ---
 
