@@ -149,15 +149,15 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Level 10 — Fullstack with Livewire
 
-> Tier: Expert Fullstack · [Level index](10-fullstack-laravel-livewire/README.md)
+> Tier: Expert Fullstack · [Level index](10-fullstack-laravel-livewire/README.en.md)
 
 | # | Module | Status |
 |---|---|---|
-| 10.1 | [Livewire: the fundamentals](10-fullstack-laravel-livewire/01-livewire-fondamentaux/README.md) | 📋 |
-| 10.2 | [Reactive components and forms](10-fullstack-laravel-livewire/02-composants-reactifs-formulaires/README.md) | 📋 |
-| 10.3 | [Alpine.js for lightweight interactivity](10-fullstack-laravel-livewire/03-alpine-js-interactivite/README.md) | 📋 |
-| 10.4 | [Dynamic tables: sort, filter, search](10-fullstack-laravel-livewire/04-tables-dynamiques-tri-filtre-recherche/README.md) | 📋 |
-| 🧩 | [Mini-project: Livewire admin dashboard](10-fullstack-laravel-livewire/projet-mini-07-dashboard-admin-livewire/README.md) | 📋 |
+| 10.1 | [Livewire: the fundamentals](10-fullstack-laravel-livewire/01-livewire-fondamentaux/README.en.md) | ✅ |
+| 10.2 | [Reactive components and forms](10-fullstack-laravel-livewire/02-composants-reactifs-formulaires/README.en.md) | ✅ |
+| 10.3 | [Alpine.js for lightweight interactivity](10-fullstack-laravel-livewire/03-alpine-js-interactivite/README.en.md) | ✅ |
+| 10.4 | [Dynamic tables: sort, filter, search](10-fullstack-laravel-livewire/04-tables-dynamiques-tri-filtre-recherche/README.en.md) | ✅ |
+| 🧩 | [Mini-project: Livewire admin dashboard](10-fullstack-laravel-livewire/projet-mini-07-dashboard-admin-livewire/README.en.md) | ✅ |
 
 ## Level 11 — DevOps: Advanced Docker & CI/CD
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 09 fully available** (69/91 modules), translated level by level following the same order as the original French authoring. Levels 10+ (Fullstack with Livewire onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 10 fully available** (74/91 modules), translated level by level following the same order as the original French authoring. Levels 11+ (Advanced DevOps onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.

@@ -46,4 +46,4 @@ projet-mini-06-api-rest-complete/
 3. **Before reading the provided code**, try building `AnnonceResource` yourself, based on module 09.2.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process.
 
-**Next in the path:** [Level 10 — Fullstack with Livewire](../../10-fullstack-laravel-livewire/README.md) *(French only)*
+**Next in the path:** [Level 10 — Fullstack with Livewire](../../10-fullstack-laravel-livewire/README.en.md)

@@ -28,4 +28,4 @@ You built a REST API in native PHP in [module 03.4](../03-php-avance/04-construc
 - Document an API with OpenAPI/Swagger.
 - Protect an API against abuse with rate limiting.
 
-**Previous:** [Level 08 — Advanced Laravel](../08-laravel-avance/README.en.md) · **Next:** [Level 10 — Fullstack with Livewire](../10-fullstack-laravel-livewire/README.md) *(French only)*
+**Previous:** [Level 08 — Advanced Laravel](../08-laravel-avance/README.en.md) · **Next:** [Level 10 — Fullstack with Livewire](../10-fullstack-laravel-livewire/README.en.md)
