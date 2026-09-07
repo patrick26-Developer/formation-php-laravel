@@ -135,17 +135,17 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Level 09 — REST API with Laravel
 
-> Tier: Expert Backend · [Level index](09-api-rest-laravel/README.md)
+> Tier: Expert Backend · [Level index](09-api-rest-laravel/README.en.md)
 
 | # | Module | Status |
 |---|---|---|
-| 09.1 | [RESTful API design: best practices](09-api-rest-laravel/01-conception-api-restful-bonnes-pratiques/README.md) | 📋 |
-| 09.2 | [API Resources and data transformation](09-api-rest-laravel/02-api-resources-transformers/README.md) | 📋 |
-| 09.3 | [API authentication with Sanctum](09-api-rest-laravel/03-authentification-api-sanctum/README.md) | 📋 |
-| 09.4 | [OAuth2 authentication with Passport](09-api-rest-laravel/04-authentification-api-passport-oauth2/README.md) | 📋 |
-| 09.5 | [Versioning and OpenAPI/Swagger documentation](09-api-rest-laravel/05-versioning-documentation-openapi/README.md) | 📋 |
-| 09.6 | [Rate limiting and API security](09-api-rest-laravel/06-rate-limiting-securite-api/README.md) | 📋 |
-| 🧩 | [Mini-project: Complete REST API](09-api-rest-laravel/projet-mini-06-api-rest-complete/README.md) | 📋 |
+| 09.1 | [RESTful API design: best practices](09-api-rest-laravel/01-conception-api-restful-bonnes-pratiques/README.en.md) | ✅ |
+| 09.2 | [API Resources and data transformation](09-api-rest-laravel/02-api-resources-transformers/README.en.md) | ✅ |
+| 09.3 | [API authentication with Sanctum](09-api-rest-laravel/03-authentification-api-sanctum/README.en.md) | ✅ |
+| 09.4 | [OAuth2 authentication with Passport](09-api-rest-laravel/04-authentification-api-passport-oauth2/README.en.md) | ✅ |
+| 09.5 | [Versioning and OpenAPI/Swagger documentation](09-api-rest-laravel/05-versioning-documentation-openapi/README.en.md) | ✅ |
+| 09.6 | [Rate limiting and API security](09-api-rest-laravel/06-rate-limiting-securite-api/README.en.md) | ✅ |
+| 🧩 | [Mini-project: Complete REST API](09-api-rest-laravel/projet-mini-06-api-rest-complete/README.en.md) | ✅ |
 
 ## Level 10 — Fullstack with Livewire
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 08 fully available** (62/91 modules), translated level by level following the same order as the original French authoring. Levels 09+ (REST API with Laravel onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 09 fully available** (69/91 modules), translated level by level following the same order as the original French authoring. Levels 10+ (Fullstack with Livewire onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.

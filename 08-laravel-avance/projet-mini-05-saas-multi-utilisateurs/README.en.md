@@ -54,4 +54,4 @@ projet-mini-05-saas-multi-utilisateurs/
 3. **Before reading the provided code**, try writing `Project`'s global scope yourself, based on module 08.5.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process.
 
-**Next in the path:** [Level 09 — REST API with Laravel](../../09-api-rest-laravel/README.md) *(French only)*
+**Next in the path:** [Level 09 — REST API with Laravel](../../09-api-rest-laravel/README.en.md)
