@@ -59,13 +59,13 @@ This table of contents is the single reference for tracking progress and navigat
 
 | # | Module | Status |
 |---|---|---|
-| 03.1 | [Design patterns in PHP](03-php-avance/01-design-patterns-php/README.md) | 📋 |
-| 03.2 | [Building an MVC architecture from scratch](03-php-avance/02-architecture-mvc-from-scratch/README.md) | 📋 |
-| 03.3 | [Unit testing with PHPUnit](03-php-avance/03-tests-unitaires-phpunit/README.md) | 📋 |
-| 03.4 | [Building a REST API in native PHP](03-php-avance/04-construction-api-rest-php-natif/README.md) | 📋 |
-| 03.5 | [Best practices, PSR-12 and Clean Code](03-php-avance/05-bonnes-pratiques-psr-clean-code/README.md) | 📋 |
-| 03.6 | [Performance and optimization](03-php-avance/06-performance-et-optimisation/README.md) | 📋 |
-| 🏗️ | [Large project: MVC mini-framework with API](03-php-avance/grand-projet-01-mini-framework-mvc-avec-api/README.md) | 📋 |
+| 03.1 | [Design patterns in PHP](03-php-avance/01-design-patterns-php/README.en.md) | ✅ |
+| 03.2 | [Building an MVC architecture from scratch](03-php-avance/02-architecture-mvc-from-scratch/README.en.md) | ✅ |
+| 03.3 | [Unit testing with PHPUnit](03-php-avance/03-tests-unitaires-phpunit/README.en.md) | ✅ |
+| 03.4 | [Building a REST API in native PHP](03-php-avance/04-construction-api-rest-php-natif/README.en.md) | ✅ |
+| 03.5 | [Best practices, PSR-12 and Clean Code](03-php-avance/05-bonnes-pratiques-psr-clean-code/README.en.md) | ✅ |
+| 03.6 | [Performance and optimization](03-php-avance/06-performance-et-optimisation/README.en.md) | ✅ |
+| 🏗️ | [Large project: MVC mini-framework with API](03-php-avance/grand-projet-01-mini-framework-mvc-avec-api/README.en.md) | ✅ |
 
 ## Level 04 — Databases in Depth
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00, 01 and 02 fully available**, translated level by level following the same order as the original French authoring. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 03 fully available**, translated level by level following the same order as the original French authoring. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
