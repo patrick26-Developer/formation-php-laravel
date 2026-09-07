@@ -22,16 +22,18 @@
 - [x] Niveau 11 — DevOps avancé (5/5 modules : dockerisation Laravel multi-stage, environnements dev/staging/prod, pipeline CI/CD GitHub Actions complet, déploiement zéro-downtime, monitoring/logs — pas de mini-projet dédié pour ce niveau, par conception)
 - [x] Niveau 12 — Projets sans base de données (3/3 projets : générateur de PDF CLI avec Dompdf, client API météo avec cache fichier maison et tests sans appel réseau, commande Artisan personnalisée d'analyse de logs — tous avec kit documentaire complet)
 - [x] Niveau 13 — Grands projets portfolio (3/3 : e-commerce minimal avec tunnel de commande transactionnel et passerelle de paiement interchangeable, réseau social minimal avec follow auto-référencé et API, SaaS de facturation multi-tenant avec limites de plan, facturation planifiée, Docker et pipeline CI/CD complet — tous avec kit documentaire complet)
+- [x] Niveau 14 — Préparation professionnelle (4/4 modules : architecture logicielle, code review/refactoring, préparation aux entretiens techniques, veille technologique — réflexifs, avec corrigés indicatifs plutôt que du code)
+
+## 🎉 Les 91 modules de la formation sont rédigés (Niveaux 00 à 14)
 
 ## En cours 🚧
 
-- [ ] Niveau 14 — Préparation professionnelle (0/4 modules)
+- [ ] Ressources transversales ([ressources/](ressources/)) : cheatsheets, glossaire, liens utiles, FAQ
 
 ## À venir 📋 (dans l'ordre de priorité)
 
-1. Niveau 14 — Préparation professionnelle (dernier niveau de contenu pédagogique)
-2. Cheatsheets et ressources transversales ([ressources/](ressources/))
-3. Passe de traduction anglaise (README.en.md) une fois le contenu français stabilisé
+1. Ressources transversales ([ressources/](ressources/))
+2. Passe de traduction anglaise (README.en.md) une fois le contenu français stabilisé — le contenu français est désormais stabilisé, cette passe peut commencer
 
 ## Fait ✅ (ajout)
 

@@ -195,10 +195,10 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 | # | Module | Statut |
 |---|---|---|
-| 14.1 | [Bonnes pratiques d'architecture logicielle](14-preparation-professionnelle/01-bonnes-pratiques-architecture-logicielle/README.md) | 📋 |
-| 14.2 | [Code review et refactoring](14-preparation-professionnelle/02-code-review-et-refactoring/README.md) | 📋 |
-| 14.3 | [Préparation aux entretiens techniques](14-preparation-professionnelle/03-preparation-entretiens-techniques/README.md) | 📋 |
-| 14.4 | [Veille technologique et écosystème PHP/Laravel](14-preparation-professionnelle/04-veille-et-ecosysteme-php-laravel/README.md) | 📋 |
+| 14.1 | [Bonnes pratiques d'architecture logicielle](14-preparation-professionnelle/01-bonnes-pratiques-architecture-logicielle/README.md) | ✅ |
+| 14.2 | [Code review et refactoring](14-preparation-professionnelle/02-code-review-et-refactoring/README.md) | ✅ |
+| 14.3 | [Préparation aux entretiens techniques](14-preparation-professionnelle/03-preparation-entretiens-techniques/README.md) | ✅ |
+| 14.4 | [Veille technologique et écosystème PHP/Laravel](14-preparation-professionnelle/04-veille-et-ecosysteme-php-laravel/README.md) | ✅ |
 
 ---
 
@@ -211,4 +211,4 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 ## Progression globale
 
-**85 / 91 modules rédigés** — Niveaux 00 à 13 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé, API REST Laravel, Fullstack Livewire, DevOps avancé, Projets sans base de données, Grands projets portfolio). Seul le Niveau 14 (Préparation professionnelle) reste à rédiger. Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
+**91 / 91 modules rédigés — la formation complète est disponible**, des 15 niveaux (00 à 14) aux 10 mini/grands projets. Reste : les ressources transversales ([ressources/](ressources/)) et la traduction anglaise. Voir [ROADMAP.md](ROADMAP.md) pour le détail.
