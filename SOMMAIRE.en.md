@@ -96,14 +96,14 @@ This table of contents is the single reference for tracking progress and navigat
 
 | # | Module | Status |
 |---|---|---|
-| 06.1 | [Installing Laravel and Artisan](06-laravel-fondamentaux/01-installation-configuration-artisan/README.md) | 📋 |
-| 06.2 | [Routing and Controllers](06-laravel-fondamentaux/02-routing-controllers/README.md) | 📋 |
-| 06.3 | [The Blade templating engine](06-laravel-fondamentaux/03-blade-templates/README.md) | 📋 |
-| 06.4 | [Eloquent ORM: the basics](06-laravel-fondamentaux/04-eloquent-orm-bases/README.md) | 📋 |
-| 06.5 | [Migrations, seeders, factories](06-laravel-fondamentaux/05-migrations-seeders-factories/README.md) | 📋 |
-| 06.6 | [Form validation](06-laravel-fondamentaux/06-validation-formulaires/README.md) | 📋 |
-| 06.7 | [Full Laravel CRUD (sort, filter, search, pagination)](06-laravel-fondamentaux/07-crud-complet-laravel-tri-filtre-recherche/README.md) | 📋 |
-| 🧩 | [Mini-project: Blog with Laravel CRUD](06-laravel-fondamentaux/projet-mini-03-blog-crud-laravel/README.md) | 📋 |
+| 06.1 | [Installing Laravel and Artisan](06-laravel-fondamentaux/01-installation-configuration-artisan/README.en.md) | ✅ |
+| 06.2 | [Routing and Controllers](06-laravel-fondamentaux/02-routing-controllers/README.en.md) | ✅ |
+| 06.3 | [The Blade templating engine](06-laravel-fondamentaux/03-blade-templates/README.en.md) | ✅ |
+| 06.4 | [Eloquent ORM: the basics](06-laravel-fondamentaux/04-eloquent-orm-bases/README.en.md) | ✅ |
+| 06.5 | [Migrations, seeders, factories](06-laravel-fondamentaux/05-migrations-seeders-factories/README.en.md) | ✅ |
+| 06.6 | [Form validation](06-laravel-fondamentaux/06-validation-formulaires/README.en.md) | ✅ |
+| 06.7 | [Full Laravel CRUD (sort, filter, search, pagination)](06-laravel-fondamentaux/07-crud-complet-laravel-tri-filtre-recherche/README.en.md) | ✅ |
+| 🧩 | [Mini-project: Blog with Laravel CRUD](06-laravel-fondamentaux/projet-mini-03-blog-crud-laravel/README.en.md) | ✅ |
 
 ## Level 07 — Intermediate Laravel
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 05 fully available** (40/91 modules — the entire framework-free/cross-cutting PHP portion), translated level by level following the same order as the original French authoring. Laravel levels (06+) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 06 fully available** (48/91 modules), translated level by level following the same order as the original French authoring. Levels 07+ (Laravel Intermediate onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
