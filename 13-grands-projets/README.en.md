@@ -20,4 +20,4 @@ All of levels 00 through 12.
 
 Each large project draws on modules from **several** different levels at once — each one's `JOURNAL.md` explicitly links back to every module involved. Unlike the mini-projects, it's not necessary (or even desirable) to work through these three projects in a strict order: pick the one whose domain speaks to you most, or all three if you want to cover e-commerce, social, and B2B SaaS.
 
-**Previous:** [Level 12 — Projects Without a Database](../12-projets-sans-base-de-donnees/README.en.md) · **Next:** [Level 14 — Professional Preparation](../14-preparation-professionnelle/README.md) *(French only)*
+**Previous:** [Level 12 — Projects Without a Database](../12-projets-sans-base-de-donnees/README.en.md) · **Next:** [Level 14 — Professional Preparation](../14-preparation-professionnelle/README.en.md)

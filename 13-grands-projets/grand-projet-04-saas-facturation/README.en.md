@@ -46,4 +46,4 @@ grand-projet-04-saas-facturation/
 3. **Before reading the provided code**, try designing `PlanLimitService::verifierLimiteProjets()` yourself.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process, especially `BillingService`'s transactional decision.
 
-**This large project closes out the training's practical section.** Next: [Level 14 — Professional Preparation](../../14-preparation-professionnelle/README.md) *(French only)*
+**This large project closes out the training's practical section.** Next: [Level 14 — Professional Preparation](../../14-preparation-professionnelle/README.en.md)

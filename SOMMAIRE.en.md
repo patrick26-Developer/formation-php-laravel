@@ -193,14 +193,14 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Level 14 — Professional Preparation
 
-> Tier: Career · [Level index](14-preparation-professionnelle/README.md)
+> Tier: Career · [Level index](14-preparation-professionnelle/README.en.md)
 
 | # | Module | Status |
 |---|---|---|
-| 14.1 | [Software architecture best practices](14-preparation-professionnelle/01-bonnes-pratiques-architecture-logicielle/README.md) | 📋 |
-| 14.2 | [Code review and refactoring](14-preparation-professionnelle/02-code-review-et-refactoring/README.md) | 📋 |
-| 14.3 | [Technical interview preparation](14-preparation-professionnelle/03-preparation-entretiens-techniques/README.md) | 📋 |
-| 14.4 | [Technology watch and the PHP/Laravel ecosystem](14-preparation-professionnelle/04-veille-et-ecosysteme-php-laravel/README.md) | 📋 |
+| 14.1 | [Software architecture best practices](14-preparation-professionnelle/01-bonnes-pratiques-architecture-logicielle/README.en.md) | ✅ |
+| 14.2 | [Code review and refactoring](14-preparation-professionnelle/02-code-review-et-refactoring/README.en.md) | ✅ |
+| 14.3 | [Technical interview preparation](14-preparation-professionnelle/03-preparation-entretiens-techniques/README.en.md) | ✅ |
+| 14.4 | [Technology watch and the PHP/Laravel ecosystem](14-preparation-professionnelle/04-veille-et-ecosysteme-php-laravel/README.en.md) | ✅ |
 
 ---
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 13 fully available** (85/91 modules), translated level by level following the same order as the original French authoring. Level 14 (Professional Preparation) is next and last. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: complete — all 15 levels fully available** (91/91 modules), translated level by level following the same order as the original French authoring. `EXERCICES.md` files and their `solutions/` remain French-only across the entire training. See [ROADMAP.md](ROADMAP.md) for history. The French version ([SOMMAIRE.md](SOMMAIRE.md)) remains the original source.

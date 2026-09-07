@@ -2,7 +2,7 @@
 
 > From zero to expert: modern PHP, Laravel, databases, REST APIs, fullstack, Docker and CI/CD — free, for everyone.
 
-🇫🇷 [Français](README.md) (source language, always the most up to date) · **🇬🇧 English** *(translation in progress, level by level)*
+🇫🇷 [Français](README.md) (source language) · **🇬🇧 English** *(lessons and project doc kits fully translated)*
 
 ---
 
@@ -28,7 +28,7 @@ The training is organized into **15 numbered levels** (`00-introduction` → `14
 
 **Mini-projects** and **large projects** are separate folders, attached to the level that makes them possible. Each one contains a **standard documentation kit** — see [CONTRIBUTING.md](CONTRIBUTING.md#kit-documentaire-dun-projet) for the role of each file (installation, execution, build journal, resources).
 
-> 📌 **Translation scope note:** the English translation currently covers each module's lesson (`README.en.md`) and each project's full documentation kit (`README.en.md`, `INSTALLATION.en.md`, `EXECUTION.en.md`, `JOURNAL.en.md`, `RESSOURCES.en.md`). Exercise statements and answer keys remain French-only for now — the folder names themselves (`00-introduction`, `01-php-fondamentaux`...) also stay in French to keep a single, stable link structure between both languages.
+> 📌 **Translation scope note:** the English translation covers every module's lesson (`README.en.md`) and every project's full documentation kit (`README.en.md`, `INSTALLATION.en.md`, `EXECUTION.en.md`, `JOURNAL.en.md`, `RESSOURCES.en.md`) across all 15 levels. Exercise statements and answer keys remain French-only — the folder names themselves (`00-introduction`, `01-php-fondamentaux`...) also stay in French to keep a single, stable link structure between both languages.
 
 ## 🧭 Level overview
 

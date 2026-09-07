@@ -27,10 +27,15 @@
 
 ## 🎉 La formation est fonctionnellement complète : 91/91 modules + ressources transversales (Niveaux 00 à 14)
 
+## Fait ✅ (traduction anglaise)
+
+- [x] Passe de traduction anglaise complète (README.en.md) — les 15 niveaux, tous les modules de cours et tous les kits documentaires de projet (mini-projets, grands projets) sont traduits, niveau par niveau, avec [SOMMAIRE.en.md](SOMMAIRE.en.md) tenu à jour en parallèle (91/91 modules)
+- [x] `EXERCICES.md` et `solutions/` restent volontairement français uniquement, annoté explicitement à chaque lien concerné
+
 ## À venir 📋 (dans l'ordre de priorité)
 
-1. Passe de traduction anglaise (README.en.md) — le contenu français est stabilisé, cette passe peut commencer quand elle sera demandée
-2. Entretien continu : corrections, mises à jour de versions (PHP/Laravel), retours de la communauté une fois le dépôt partagé plus largement
+1. Entretien continu : corrections, mises à jour de versions (PHP/Laravel), retours de la communauté une fois le dépôt partagé plus largement
+2. Éventuelle traduction anglaise des `EXERCICES.md`/`solutions/`, si la demande se confirme
 
 ## Fait ✅ (ajout)
 

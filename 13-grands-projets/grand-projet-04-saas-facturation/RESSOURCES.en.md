@@ -14,4 +14,4 @@
 
 ## This project closes out the training's practical section
 
-- [Level 14 — Professional Preparation](../../14-preparation-professionnelle/README.md) *(French only)* — the logical next step: architecture, code review, technical interviews.
+- [Level 14 — Professional Preparation](../../14-preparation-professionnelle/README.en.md) — the logical next step: architecture, code review, technical interviews.
