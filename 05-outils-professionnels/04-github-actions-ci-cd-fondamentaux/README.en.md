@@ -131,7 +131,7 @@ Once the workflow is in place, GitHub lets you display a badge in the repository
 ## ➡️ Going further
 
 - [docs.github.com/actions](https://docs.github.com/actions)
-- [Module 11.3 — Complete CI/CD Pipeline with GitHub Actions for Laravel](../../11-devops-docker-cicd-avance/03-pipeline-cicd-github-actions-laravel/README.md) *(French only)*
+- [Module 11.3 — Complete CI/CD Pipeline with GitHub Actions for Laravel](../../11-devops-docker-cicd-avance/03-pipeline-cicd-github-actions-laravel/README.en.md)
 
 ## 📝 Exercises
 

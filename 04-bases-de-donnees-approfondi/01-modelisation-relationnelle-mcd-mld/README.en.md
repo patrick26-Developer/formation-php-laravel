@@ -121,8 +121,8 @@ CREATE TABLE detailed_profiles (
 
 ## ➡️ Going further
 
-- [Module 04.2 — Advanced SQL: joins, indexes, transactions](../02-sql-avance-jointures-index-transactions/README.md) *(French only)*
-- [Module 06.5 — Migrations, seeders, factories (Laravel)](../../06-laravel-fondamentaux/05-migrations-seeders-factories/README.md) *(French only)*
+- [Module 04.2 — Advanced SQL: joins, indexes, transactions](../02-sql-avance-jointures-index-transactions/README.en.md)
+- [Module 06.5 — Migrations, seeders, factories (Laravel)](../../06-laravel-fondamentaux/05-migrations-seeders-factories/README.en.md)
 
 ## 📝 Exercises
 
@@ -130,4 +130,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [Level 03 — Advanced PHP](../../03-php-avance/README.en.md) · **Next:** [04.2 — Advanced SQL](../02-sql-avance-jointures-index-transactions/README.md) *(French only)*
+**Previous:** [Level 03 — Advanced PHP](../../03-php-avance/README.en.md) · **Next:** [04.2 — Advanced SQL](../02-sql-avance-jointures-index-transactions/README.en.md)

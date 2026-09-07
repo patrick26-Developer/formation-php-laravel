@@ -26,4 +26,4 @@ Dashboard statistics are cached per tenant (`"dashboard.statistiques.tenant.{$te
 
 ## Going further (out of scope for this mini-project)
 
-No plan limit (number of projects, users) is implemented — a real SaaS would generally bill by tier. This topic, along with subscription and payment management, is covered in depth in the [level 13 large project](../../13-grands-projets/grand-projet-04-saas-facturation/README.md) *(French only)*.
+No plan limit (number of projects, users) is implemented — a real SaaS would generally bill by tier. This topic, along with subscription and payment management, is covered in depth in the [level 13 large project](../../13-grands-projets/grand-projet-04-saas-facturation/README.en.md).

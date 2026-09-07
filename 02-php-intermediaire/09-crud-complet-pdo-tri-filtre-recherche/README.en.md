@@ -203,7 +203,7 @@ $totalPages = (int) ceil($total / 10);
 ## ➡️ Going further
 
 - [dev.mysql.com — LIMIT](https://dev.mysql.com/doc/refman/8.0/en/select.html) (the `LIMIT ... OFFSET` clause)
-- [Module 03.1 — Design Patterns in PHP](../../03-php-avance/01-design-patterns-php/README.md) *(French only)* (the Repository pattern in detail)
+- [Module 03.1 — Design Patterns in PHP](../../03-php-avance/01-design-patterns-php/README.en.md) (the Repository pattern in detail)
 
 ## 📝 Exercises
 
@@ -211,4 +211,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [02.8 — PDO and MySQL](../08-pdo-bases-de-donnees-mysql/README.en.md) · **Next:** [Mini-project: Task Manager (CRUD PDO)](../projet-mini-02-gestion-taches-crud-pdo/README.md) *(French only)*
+**Previous:** [02.8 — PDO and MySQL](../08-pdo-bases-de-donnees-mysql/README.en.md) · **Next:** [Mini-project: Task Manager (CRUD PDO)](../projet-mini-02-gestion-taches-crud-pdo/README.en.md)

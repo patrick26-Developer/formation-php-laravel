@@ -27,4 +27,4 @@ This level covers what separates a demo Laravel application from a production on
 - Write modern tests with Pest.
 - Structure a Laravel application that grows without becoming unmanageable.
 
-**Previous:** [Level 07 — Intermediate Laravel](../07-laravel-intermediaire/README.en.md) · **Next:** [Level 09 — REST API with Laravel](../09-api-rest-laravel/README.md) *(French only)*
+**Previous:** [Level 07 — Intermediate Laravel](../07-laravel-intermediaire/README.en.md) · **Next:** [Level 09 — REST API with Laravel](../09-api-rest-laravel/README.en.md)

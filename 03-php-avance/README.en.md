@@ -28,4 +28,4 @@ This level closes out the "PHP without a framework" part of the training. You'll
 - Build a REST API in native PHP, without a framework.
 - Write code that follows professional standards (PSR-12, SOLID).
 
-**Previous:** [Level 02 — Intermediate PHP](../02-php-intermediaire/README.en.md) · **Next:** [Level 04 — Databases in Depth](../04-bases-de-donnees-approfondi/README.md) *(French only)*
+**Previous:** [Level 02 — Intermediate PHP](../02-php-intermediaire/README.en.md) · **Next:** [Level 04 — Databases in Depth](../04-bases-de-donnees-approfondi/README.en.md)

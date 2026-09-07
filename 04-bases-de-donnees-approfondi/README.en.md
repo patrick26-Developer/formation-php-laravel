@@ -23,4 +23,4 @@ You already know how to use MySQL with PDO (level 02). This level goes deeper in
 - Write complex joins, manage transactions, and understand integrity constraints.
 - Analyze and optimize a slow query with `EXPLAIN` and well-chosen indexes.
 
-**Previous:** [Level 03 — Advanced PHP](../03-php-avance/README.en.md) · **Next:** [Level 05 — Professional Tools](../05-outils-professionnels/README.md) *(French only)*
+**Previous:** [Level 03 — Advanced PHP](../03-php-avance/README.en.md) · **Next:** [Level 05 — Professional Tools](../05-outils-professionnels/README.en.md)

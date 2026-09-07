@@ -123,7 +123,7 @@ If `authorize()` returns `false`, Laravel automatically returns a **403** error,
 ## ➡️ Going further
 
 - [laravel.com/docs — Middleware](https://laravel.com/docs/middleware)
-- [Module 07.5 — Authorization: Policies and Gates](../05-autorisations-policies-gates/README.md) *(French only)*
+- [Module 07.5 — Authorization: Policies and Gates](../05-autorisations-policies-gates/README.en.md)
 
 ## 📝 Exercises
 

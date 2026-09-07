@@ -166,7 +166,7 @@ Already built in practice in [module 02.9](../../02-php-intermediaire/09-crud-co
 ## ➡️ Going further
 
 - [refactoring.guru/design-patterns](https://refactoring.guru/design-patterns) — a very thorough visual reference on design patterns
-- [Module 03.2 — MVC Architecture from Scratch](../02-architecture-mvc-from-scratch/README.md) *(French only)*
+- [Module 03.2 — MVC Architecture from Scratch](../02-architecture-mvc-from-scratch/README.en.md)
 
 ## 📝 Exercises
 
@@ -174,4 +174,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [Level 02 — Intermediate PHP](../../02-php-intermediaire/README.en.md) · **Next:** [03.2 — MVC Architecture from Scratch](../02-architecture-mvc-from-scratch/README.md) *(French only)*
+**Previous:** [Level 02 — Intermediate PHP](../../02-php-intermediaire/README.en.md) · **Next:** [03.2 — MVC Architecture from Scratch](../02-architecture-mvc-from-scratch/README.en.md)

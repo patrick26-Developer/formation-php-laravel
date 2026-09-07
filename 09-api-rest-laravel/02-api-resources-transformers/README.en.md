@@ -133,8 +133,8 @@ For a request sent with the `Accept: application/json` header, a validation fail
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [09.1 — RESTful API Design](../01-conception-api-restful-bonnes-pratiques/README.en.md) · **Next:** [09.3 — API Authentication with Sanctum](../03-authentification-api-sanctum/README.md) *(French only)*
+**Previous:** [09.1 — RESTful API Design](../01-conception-api-restful-bonnes-pratiques/README.en.md) · **Next:** [09.3 — API Authentication with Sanctum](../03-authentification-api-sanctum/README.en.md)

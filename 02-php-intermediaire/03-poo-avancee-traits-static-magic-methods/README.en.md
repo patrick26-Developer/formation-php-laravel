@@ -203,4 +203,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [02.2 — Inheritance, Interfaces, Abstraction](../02-poo-heritage-interfaces-abstraction/README.en.md) · **Next:** [02.4 — Exception Handling](../04-gestion-exceptions/README.md) *(French only)*
+**Previous:** [02.2 — Inheritance, Interfaces, Abstraction](../02-poo-heritage-interfaces-abstraction/README.en.md) · **Next:** [02.4 — Exception Handling](../04-gestion-exceptions/README.en.md)

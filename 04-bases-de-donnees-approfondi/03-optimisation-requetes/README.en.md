@@ -88,7 +88,7 @@ Already covered in [module 03.6](../../03-php-avance/06-performance-et-optimisat
 ## ➡️ Going further
 
 - [dev.mysql.com — EXPLAIN Output Format](https://dev.mysql.com/doc/refman/8.0/en/explain-output.html)
-- [Module 08.2 — Cache and Performance Optimization (Laravel)](../../08-laravel-avance/02-cache-optimisation-performance/README.md) *(French only)*
+- [Module 08.2 — Cache and Performance Optimization (Laravel)](../../08-laravel-avance/02-cache-optimisation-performance/README.en.md)
 
 ## 📝 Exercises
 

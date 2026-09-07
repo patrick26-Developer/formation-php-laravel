@@ -153,4 +153,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [06.6 — Form Validation](../06-validation-formulaires/README.en.md) · **Next:** [Mini-project: Blog with Laravel CRUD](../projet-mini-03-blog-crud-laravel/README.md) *(French only)*
+**Previous:** [06.6 — Form Validation](../06-validation-formulaires/README.en.md) · **Next:** [Mini-project: Blog with Laravel CRUD](../projet-mini-03-blog-crud-laravel/README.en.md)

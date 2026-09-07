@@ -111,7 +111,7 @@ class Tache extends Model
 ## ➡️ Going further
 
 - [laravel.com/docs — Eloquent: Getting Started](https://laravel.com/docs/eloquent)
-- [Module 06.5 — Migrations, Seeders, Factories](../05-migrations-seeders-factories/README.md) *(French only)*
+- [Module 06.5 — Migrations, Seeders, Factories](../05-migrations-seeders-factories/README.en.md)
 
 ## 📝 Exercises
 

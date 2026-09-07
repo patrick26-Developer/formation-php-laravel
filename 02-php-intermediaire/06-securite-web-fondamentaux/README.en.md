@@ -139,4 +139,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [02.5 — Sessions, Cookies, Homemade Authentication](../05-sessions-cookies-authentification-maison/README.en.md) · **Next:** [02.7 — Composer, Autoloading, PSR](../07-composer-autoload-psr/README.md) *(French only)*
+**Previous:** [02.5 — Sessions, Cookies, Homemade Authentication](../05-sessions-cookies-authentification-maison/README.en.md) · **Next:** [02.7 — Composer, Autoloading, PSR](../07-composer-autoload-psr/README.en.md)

@@ -141,7 +141,7 @@ $repository->modifer(1); // typo: "modifer" instead of "modifier"
 
 - [phpstan.org](https://phpstan.org/)
 - [cs.symfony.com](https://cs.symfony.com/) (PHP-CS-Fixer documentation)
-- [Module 14.2 — Code Review and Refactoring](../../14-preparation-professionnelle/02-code-review-et-refactoring/README.md) *(French only)*
+- [Module 14.2 — Code Review and Refactoring](../../14-preparation-professionnelle/02-code-review-et-refactoring/README.en.md)
 
 ## 📝 Exercises
 
@@ -149,4 +149,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [05.4 — GitHub Actions: CI/CD Fundamentals](../04-github-actions-ci-cd-fondamentaux/README.en.md) · **Next:** [Level 06 — Laravel Fundamentals](../../06-laravel-fondamentaux/README.md) *(French only)*
+**Previous:** [05.4 — GitHub Actions: CI/CD Fundamentals](../04-github-actions-ci-cd-fondamentaux/README.en.md) · **Next:** [Level 06 — Laravel Fundamentals](../../06-laravel-fondamentaux/README.en.md)

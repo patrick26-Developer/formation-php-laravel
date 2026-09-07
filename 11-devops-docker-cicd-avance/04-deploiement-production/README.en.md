@@ -108,4 +108,4 @@ See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
 
 ---
 
-**Previous:** [11.3 — Complete CI/CD Pipeline](../03-pipeline-cicd-github-actions-laravel/README.en.md) · **Next:** [11.5 — Monitoring and Log Management](../05-monitoring-logs/README.md) *(French only)*
+**Previous:** [11.3 — Complete CI/CD Pipeline](../03-pipeline-cicd-github-actions-laravel/README.en.md) · **Next:** [11.5 — Monitoring and Log Management](../05-monitoring-logs/README.en.md)

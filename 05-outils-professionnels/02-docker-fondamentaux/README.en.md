@@ -122,7 +122,7 @@ vendor/
 ## ➡️ Going further
 
 - [docs.docker.com/get-started/](https://docs.docker.com/get-started/)
-- [Module 05.3 — Docker Compose: PHP + MySQL + Nginx](../03-docker-compose-php-mysql-nginx/README.md) *(French only)*
+- [Module 05.3 — Docker Compose: PHP + MySQL + Nginx](../03-docker-compose-php-mysql-nginx/README.en.md)
 
 ## 📝 Exercises
 
@@ -130,4 +130,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [05.1 — Advanced Git](../01-git-workflow-avance-branches-pr/README.en.md) · **Next:** [05.3 — Docker Compose](../03-docker-compose-php-mysql-nginx/README.md) *(French only)*
+**Previous:** [05.1 — Advanced Git](../01-git-workflow-avance-branches-pr/README.en.md) · **Next:** [05.3 — Docker Compose](../03-docker-compose-php-mysql-nginx/README.en.md)

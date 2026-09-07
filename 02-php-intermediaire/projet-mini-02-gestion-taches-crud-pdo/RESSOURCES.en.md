@@ -15,6 +15,6 @@
 
 ## Going further after this project
 
-- [Level 03.2 — MVC Architecture from Scratch](../../03-php-avance/02-architecture-mvc-from-scratch/README.md) *(French only)* — how to structure these same pages with a real router and Model/View/Controller separation.
-- [Level 03.3 — Unit Testing with PHPUnit](../../03-php-avance/03-tests-unitaires-phpunit/README.md) *(French only)* — how to automatically test `TacheRepository`.
-- [Level 06.7 — Full Laravel CRUD](../../06-laravel-fondamentaux/07-crud-complet-laravel-tri-filtre-recherche/README.md) *(French only)* — the same functionality, built with Eloquent in a fraction of the code.
+- [Level 03.2 — MVC Architecture from Scratch](../../03-php-avance/02-architecture-mvc-from-scratch/README.en.md) — how to structure these same pages with a real router and Model/View/Controller separation.
+- [Level 03.3 — Unit Testing with PHPUnit](../../03-php-avance/03-tests-unitaires-phpunit/README.en.md) — how to automatically test `TacheRepository`.
+- [Level 06.7 — Full Laravel CRUD](../../06-laravel-fondamentaux/07-crud-complet-laravel-tri-filtre-recherche/README.en.md) — the same functionality, built with Eloquent in a fraction of the code.

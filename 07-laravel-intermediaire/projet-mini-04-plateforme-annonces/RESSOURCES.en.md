@@ -16,6 +16,6 @@
 
 ## Going further after this project
 
-- [Level 08.1 — Jobs, Queues, Events, Listeners](../../08-laravel-avance/01-jobs-queues-events-listeners/README.md) *(French only)* — send the contact notification in the background instead of slowing down the HTTP response.
-- [Level 09.6 — Rate Limiting and API Security](../../09-api-rest-laravel/06-rate-limiting-securite-api/README.md) *(French only)* — protect the contact form from spam.
-- [Level 10 — Fullstack with Livewire](../../10-fullstack-laravel-livewire/README.md) *(French only)* — make the listing search/filter reactive with no page reload.
+- [Level 08.1 — Jobs, Queues, Events, Listeners](../../08-laravel-avance/01-jobs-queues-events-listeners/README.en.md) — send the contact notification in the background instead of slowing down the HTTP response.
+- [Level 09.6 — Rate Limiting and API Security](../../09-api-rest-laravel/06-rate-limiting-securite-api/README.en.md) — protect the contact form from spam.
+- [Level 10 — Fullstack with Livewire](../../10-fullstack-laravel-livewire/README.en.md) — make the listing search/filter reactive with no page reload.

@@ -96,7 +96,7 @@ class Annonce extends Model
 ## ➡️ Going further
 
 - [laravel.com/docs — Service Container (contextual binding)](https://laravel.com/docs/container#contextual-binding)
-- [Module 13.4 — Large Project: Multi-tenant Billing SaaS](../../13-grands-projets/grand-projet-04-saas-facturation/README.md) *(French only)* (multi-tenancy applied under real conditions)
+- [Module 13.4 — Large Project: Multi-tenant Billing SaaS](../../13-grands-projets/grand-projet-04-saas-facturation/README.en.md) (multi-tenancy applied under real conditions)
 
 ## 📝 Exercises
 

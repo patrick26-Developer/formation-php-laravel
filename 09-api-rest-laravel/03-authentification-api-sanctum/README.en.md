@@ -123,7 +123,7 @@ The frontend calls `/sanctum/csrf-cookie` before logging in, then authenticates 
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

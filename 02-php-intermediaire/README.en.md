@@ -30,4 +30,4 @@ This level marks a turning point: you leave purely procedural PHP behind to ente
 - Install dependencies with Composer and organize your code according to PSR standards.
 - Connect to MySQL with PDO and build a full CRUD (create/read/update/delete) with sorting, filtering, and search.
 
-**Previous:** [Level 01 — PHP Fundamentals](../01-php-fondamentaux/README.en.md) · **Next:** [Level 03 — Advanced PHP](../03-php-avance/README.md) *(French only)*
+**Previous:** [Level 01 — PHP Fundamentals](../01-php-fondamentaux/README.en.md) · **Next:** [Level 03 — Advanced PHP](../03-php-avance/README.en.md)

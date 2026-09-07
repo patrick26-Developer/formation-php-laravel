@@ -153,4 +153,4 @@ See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
 
 ---
 
-**Previous:** [10.1 — Livewire: The Fundamentals](../01-livewire-fondamentaux/README.en.md) · **Next:** [10.3 — Alpine.js for Lightweight Interactivity](../03-alpine-js-interactivite/README.md) *(French only)*
+**Previous:** [10.1 — Livewire: The Fundamentals](../01-livewire-fondamentaux/README.en.md) · **Next:** [10.3 — Alpine.js for Lightweight Interactivity](../03-alpine-js-interactivite/README.en.md)

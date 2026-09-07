@@ -14,5 +14,5 @@
 
 ## Going further after this project
 
-- [Level 10 — Fullstack with Livewire](../../10-fullstack-laravel-livewire/README.md) *(French only)* — an alternative to a separate API when a full JS frontend isn't needed.
-- [Level 11.3 — Complete CI/CD Pipeline](../../11-devops-docker-cicd-avance/03-pipeline-cicd-github-actions-laravel/README.md) *(French only)* — automatically run `AuthApiTest`/`AnnonceApiTest` on every push.
+- [Level 10 — Fullstack with Livewire](../../10-fullstack-laravel-livewire/README.en.md) — an alternative to a separate API when a full JS frontend isn't needed.
+- [Level 11.3 — Complete CI/CD Pipeline](../../11-devops-docker-cicd-avance/03-pipeline-cicd-github-actions-laravel/README.en.md) — automatically run `AuthApiTest`/`AnnonceApiTest` on every push.

@@ -100,7 +100,7 @@ Generates interactive documentation accessible at `/api/documentation`, where ev
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

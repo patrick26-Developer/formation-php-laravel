@@ -57,4 +57,4 @@ grand-projet-01-mini-framework-mvc-avec-api/
 3. **Before reading the provided code**, try building `Routeur` and `TacheApiController` yourself, based on modules 03.2 and 03.4.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process, in order.
 
-**Next in the path:** [Level 04 — Databases in Depth](../../04-bases-de-donnees-approfondi/README.md) *(French only)*
+**Next in the path:** [Level 04 — Databases in Depth](../../04-bases-de-donnees-approfondi/README.en.md)

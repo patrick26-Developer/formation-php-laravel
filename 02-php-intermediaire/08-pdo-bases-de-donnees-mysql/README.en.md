@@ -180,7 +180,7 @@ class Connection {
 ## ➡️ Going further
 
 - [php.net/manual/en/book.pdo.php](https://www.php.net/manual/en/book.pdo.php)
-- [Level 04 — Databases in Depth](../../04-bases-de-donnees-approfondi/README.md) *(French only)*
+- [Level 04 — Databases in Depth](../../04-bases-de-donnees-approfondi/README.en.md)
 
 ## 📝 Exercises
 

@@ -60,7 +60,7 @@ Route::prefix('v1')->group(function () {
 });
 ```
 
-> 💡 Even without an immediate need for a V2, prefixing `/api/v1/...` from day one avoids a painful migration later, once external clients (an already-published mobile app) depend on the current response structure. Covered in depth in [module 09.5](../05-versioning-documentation-openapi/README.md) *(French only)*.
+> 💡 Even without an immediate need for a V2, prefixing `/api/v1/...` from day one avoids a painful migration later, once external clients (an already-published mobile app) depend on the current response structure. Covered in depth in [module 09.5](../05-versioning-documentation-openapi/README.en.md).
 
 ### Pagination, sorting, filtering: consistency with the rest of the training
 
@@ -94,7 +94,7 @@ public function index(Request $request)
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

@@ -129,7 +129,7 @@ For most cases (checking that a piece of data exists and isn't empty), `isset()`
 ## ➡️ Going further
 
 - [php.net/manual/en/book.opcache.php](https://www.php.net/manual/en/book.opcache.php)
-- [Module 08.2 — Cache and Performance Optimization (Laravel)](../../08-laravel-avance/02-cache-optimisation-performance/README.md) *(French only)*
+- [Module 08.2 — Cache and Performance Optimization (Laravel)](../../08-laravel-avance/02-cache-optimisation-performance/README.en.md)
 
 ## 📝 Exercises
 
@@ -137,4 +137,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [03.5 — Best Practices, PSR-12, Clean Code](../05-bonnes-pratiques-psr-clean-code/README.en.md) · **Next:** [Large Project: MVC Mini-Framework with API](../grand-projet-01-mini-framework-mvc-avec-api/README.md) *(French only)*
+**Previous:** [03.5 — Best Practices, PSR-12, Clean Code](../05-bonnes-pratiques-psr-clean-code/README.en.md) · **Next:** [Large Project: MVC Mini-Framework with API](../grand-projet-01-mini-framework-mvc-avec-api/README.en.md)

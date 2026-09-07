@@ -149,7 +149,7 @@ env:
 ## ➡️ Going further
 
 - [docs.github.com/actions](https://docs.github.com/actions)
-- [Module 11.4 — Production Deployment](../04-deploiement-production/README.md) *(French only)* (the logical continuation of CD)
+- [Module 11.4 — Production Deployment](../04-deploiement-production/README.en.md) (the logical continuation of CD)
 
 ## 📝 Exercises
 

@@ -14,6 +14,6 @@
 
 ## Going further after this project
 
-- [Level 06.2 — Routing and Controllers (Laravel)](../../06-laravel-fondamentaux/02-routing-controllers/README.md) *(French only)* — compare with `Routeur.php`: you'll recognize every concept.
-- [Level 08.3 — Testing with Pest and PHPUnit in Laravel](../../08-laravel-avance/03-tests-pest-phpunit-laravel/README.md) *(French only)* — Laravel natively provides a testing environment with a built-in test database, eliminating the need for this project's "SQLite workaround".
-- [Level 09 — REST API with Laravel](../../09-api-rest-laravel/README.md) *(French only)* — everything `Reponse.php` does by hand, Laravel automates with API Resources.
+- [Level 06.2 — Routing and Controllers (Laravel)](../../06-laravel-fondamentaux/02-routing-controllers/README.en.md) — compare with `Routeur.php`: you'll recognize every concept.
+- [Level 08.3 — Testing with Pest and PHPUnit in Laravel](../../08-laravel-avance/03-tests-pest-phpunit-laravel/README.en.md) — Laravel natively provides a testing environment with a built-in test database, eliminating the need for this project's "SQLite workaround".
+- [Level 09 — REST API with Laravel](../../09-api-rest-laravel/README.en.md) — everything `Reponse.php` does by hand, Laravel automates with API Resources.

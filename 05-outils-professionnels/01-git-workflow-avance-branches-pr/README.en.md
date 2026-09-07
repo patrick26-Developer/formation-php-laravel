@@ -137,7 +137,7 @@ git stash pop               # restores the set-aside changes
 ## ➡️ Going further
 
 - [git-scm.com/book/en/v2](https://git-scm.com/book/en/v2) — the reference Git book (free)
-- [Module 05.4 — GitHub Actions: CI/CD Fundamentals](../04-github-actions-ci-cd-fondamentaux/README.md) *(French only)*
+- [Module 05.4 — GitHub Actions: CI/CD Fundamentals](../04-github-actions-ci-cd-fondamentaux/README.en.md)
 
 ## 📝 Exercises
 
@@ -145,4 +145,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [Level 04 — Databases in Depth](../../04-bases-de-donnees-approfondi/README.en.md) · **Next:** [05.2 — Docker: The Fundamentals](../02-docker-fondamentaux/README.md) *(French only)*
+**Previous:** [Level 04 — Databases in Depth](../../04-bases-de-donnees-approfondi/README.en.md) · **Next:** [05.2 — Docker: The Fundamentals](../02-docker-fondamentaux/README.en.md)

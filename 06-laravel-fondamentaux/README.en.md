@@ -29,4 +29,4 @@ After five levels of pure PHP, you're ready for **Laravel**, the most widely use
 - Version a database schema with migrations.
 - Build a full CRUD with sorting, filtering, search, and pagination, in a fraction of the code needed in native PHP.
 
-**Previous:** [Level 05 — Professional Tools](../05-outils-professionnels/README.en.md) · **Next:** [Level 07 — Intermediate Laravel](../07-laravel-intermediaire/README.md) *(French only)*
+**Previous:** [Level 05 — Professional Tools](../05-outils-professionnels/README.en.md) · **Next:** [Level 07 — Intermediate Laravel](../07-laravel-intermediaire/README.en.md)

@@ -144,7 +144,7 @@ class User extends Authenticatable
 
 - [laravel.com/docs — Mail](https://laravel.com/docs/mail)
 - [laravel.com/docs — Notifications](https://laravel.com/docs/notifications)
-- [Module 08.1 — Jobs, Queues, Events, Listeners](../../08-laravel-avance/01-jobs-queues-events-listeners/README.md) *(French only)* (sending these emails in the background, without slowing down the HTTP response)
+- [Module 08.1 — Jobs, Queues, Events, Listeners](../../08-laravel-avance/01-jobs-queues-events-listeners/README.en.md) (sending these emails in the background, without slowing down the HTTP response)
 
 ## 📝 Exercises
 

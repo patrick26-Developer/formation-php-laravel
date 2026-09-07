@@ -113,4 +113,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [01.8 — Files, Includes and Organization](../08-fichiers-et-includes/README.en.md) · **Next:** [Mini-project: CLI and Web Calculator](../projet-mini-01-calculatrice-cli-et-web/README.md) *(French only)*
+**Previous:** [01.8 — Files, Includes and Organization](../08-fichiers-et-includes/README.en.md) · **Next:** [Mini-project: CLI and Web Calculator](../projet-mini-01-calculatrice-cli-et-web/README.en.md)

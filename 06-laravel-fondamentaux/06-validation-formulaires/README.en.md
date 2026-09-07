@@ -129,7 +129,7 @@ public function store(StoreTacheRequest $request)
 ## ➡️ Going further
 
 - [laravel.com/docs — Validation](https://laravel.com/docs/validation)
-- [Module 07.3 — Middlewares and Form Requests](../../07-laravel-intermediaire/03-middlewares-form-requests/README.md) *(French only)*
+- [Module 07.3 — Middlewares and Form Requests](../../07-laravel-intermediaire/03-middlewares-form-requests/README.en.md)
 
 ## 📝 Exercises
 

@@ -146,7 +146,7 @@ Docker Compose automatically reads a `.env` file located in the same folder as `
 ## ➡️ Going further
 
 - [docs.docker.com/compose/](https://docs.docker.com/compose/)
-- [Module 11.1 — Fully Dockerizing a Laravel Application](../../11-devops-docker-cicd-avance/01-dockerisation-application-laravel-complete/README.md) *(French only)*
+- [Module 11.1 — Fully Dockerizing a Laravel Application](../../11-devops-docker-cicd-avance/01-dockerisation-application-laravel-complete/README.en.md)
 
 ## 📝 Exercises
 
@@ -154,4 +154,4 @@ See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
-**Previous:** [05.2 — Docker: The Fundamentals](../02-docker-fondamentaux/README.en.md) · **Next:** [05.4 — GitHub Actions: CI/CD Fundamentals](../04-github-actions-ci-cd-fondamentaux/README.md) *(French only)*
+**Previous:** [05.2 — Docker: The Fundamentals](../02-docker-fondamentaux/README.en.md) · **Next:** [05.4 — GitHub Actions: CI/CD Fundamentals](../04-github-actions-ci-cd-fondamentaux/README.en.md)

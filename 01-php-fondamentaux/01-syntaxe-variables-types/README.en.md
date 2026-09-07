@@ -193,4 +193,4 @@ Now move on to [EXERCICES.md](EXERCICES.en.md) — **only check `solutions/` aft
 
 ---
 
-**Previous:** [Level 00 — Introduction](../../00-introduction/README.en.md) · **Next:** [01.2 — Operators and Control Structures](../02-operateurs-structures-controle/README.md) *(French only)*
+**Previous:** [Level 00 — Introduction](../../00-introduction/README.en.md) · **Next:** [01.2 — Operators and Control Structures](../02-operateurs-structures-controle/README.en.md)

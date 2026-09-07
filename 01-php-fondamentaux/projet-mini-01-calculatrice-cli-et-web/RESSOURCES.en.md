@@ -15,5 +15,5 @@
 
 ## Going further after this project
 
-- [Level 02.1 — OOP: the Basics](../../02-php-intermediaire/01-poo-bases/README.md) *(French only)* — how this calculator would be structured with a class instead of standalone functions.
-- [Module 03.3 — Unit Testing with PHPUnit](../../03-php-avance/03-tests-unitaires-phpunit/README.md) *(French only)* — how to automate the verification of `calculer()` and `diviser()`.
+- [Level 02.1 — OOP: the Basics](../../02-php-intermediaire/01-poo-bases/README.en.md) — how this calculator would be structured with a class instead of standalone functions.
+- [Module 03.3 — Unit Testing with PHPUnit](../../03-php-avance/03-tests-unitaires-phpunit/README.en.md) — how to automate the verification of `calculer()` and `diviser()`.

@@ -14,5 +14,5 @@
 
 ## Going further after this project
 
-- [Level 11 — Advanced DevOps](../../11-devops-docker-cicd-avance/README.md) *(French only)* — dockerize and deploy this complete application.
-- [Level 14.1 — Software Architecture Best Practices](../../14-preparation-professionnelle/01-bonnes-pratiques-architecture-logicielle/README.md) *(French only)* — extend the `acceder-admin` Gate into a real role/permission system.
+- [Level 11 — Advanced DevOps](../../11-devops-docker-cicd-avance/README.en.md) — dockerize and deploy this complete application.
+- [Level 14.1 — Software Architecture Best Practices](../../14-preparation-professionnelle/01-bonnes-pratiques-architecture-logicielle/README.en.md) — extend the `acceder-admin` Gate into a real role/permission system.

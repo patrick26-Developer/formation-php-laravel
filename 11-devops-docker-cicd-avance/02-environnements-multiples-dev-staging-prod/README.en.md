@@ -107,4 +107,4 @@ See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
 
 ---
 
-**Previous:** [11.1 — Full Dockerization](../01-dockerisation-application-laravel-complete/README.en.md) · **Next:** [11.3 — Complete CI/CD Pipeline](../03-pipeline-cicd-github-actions-laravel/README.md) *(French only)*
+**Previous:** [11.1 — Full Dockerization](../01-dockerisation-application-laravel-complete/README.en.md) · **Next:** [11.3 — Complete CI/CD Pipeline](../03-pipeline-cicd-github-actions-laravel/README.en.md)

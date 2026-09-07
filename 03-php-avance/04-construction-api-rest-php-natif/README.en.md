@@ -166,7 +166,7 @@ try {
 ## ➡️ Going further
 
 - [restfulapi.net](https://restfulapi.net/) — reference on REST principles
-- [Level 09 — REST API with Laravel](../../09-api-rest-laravel/README.md) *(French only)* (how Laravel automates all of this)
+- [Level 09 — REST API with Laravel](../../09-api-rest-laravel/README.en.md) (how Laravel automates all of this)
 
 ## 📝 Exercises
 

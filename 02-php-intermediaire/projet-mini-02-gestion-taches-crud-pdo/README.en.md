@@ -56,4 +56,4 @@ projet-mini-02-gestion-taches-crud-pdo/
 3. **Before reading the provided code**, try building `TacheRepository::lister()` with sort/filter/search yourself, based on module 02.9.
 4. Check [JOURNAL.md](JOURNAL.en.md) to see the full build process.
 
-**Next in the path:** [Level 03 — Advanced PHP](../../03-php-avance/README.md) *(French only)*
+**Next in the path:** [Level 03 — Advanced PHP](../../03-php-avance/README.en.md)

@@ -26,4 +26,4 @@ The most interesting point of this project: `MessageController::store()` is a **
 
 ## Going further (out of scope for this mini-project)
 
-No limit is placed on the number of listings per user, no moderation exists before publishing, and messages themselves aren't protected against spam (no CAPTCHA or rate limiting). These topics, especially **rate limiting**, are covered in detail in [module 09.6](../../09-api-rest-laravel/06-rate-limiting-securite-api/README.md) *(French only)*.
+No limit is placed on the number of listings per user, no moderation exists before publishing, and messages themselves aren't protected against spam (no CAPTCHA or rate limiting). These topics, especially **rate limiting**, are covered in detail in [module 09.6](../../09-api-rest-laravel/06-rate-limiting-securite-api/README.en.md).

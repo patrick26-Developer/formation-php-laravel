@@ -129,8 +129,8 @@ composer require --dev friendsofphp/php-cs-fixer
 ## ➡️ Going further
 
 - [php-fig.org/psr/psr-12/](https://www.php-fig.org/psr/psr-12/)
-- [Module 05.5 — Code Quality: PHPStan and PHP-CS-Fixer](../../05-outils-professionnels/05-qualite-code-phpstan-php-cs-fixer/README.md) *(French only)*
-- [Module 14.2 — Code Review and Refactoring](../../14-preparation-professionnelle/02-code-review-et-refactoring/README.md) *(French only)*
+- [Module 05.5 — Code Quality: PHPStan and PHP-CS-Fixer](../../05-outils-professionnels/05-qualite-code-phpstan-php-cs-fixer/README.en.md)
+- [Module 14.2 — Code Review and Refactoring](../../14-preparation-professionnelle/02-code-review-et-refactoring/README.en.md)
 
 ## 📝 Exercises
 

@@ -30,4 +30,4 @@ This level covers the absolute basics of PHP: syntax, types, control flow, funct
 - Process data sent by an HTML form.
 - Organize a small PHP project across multiple files.
 
-**Previous:** [Level 00 — Introduction](../00-introduction/README.en.md) · **Next:** [Level 02 — Intermediate PHP](../02-php-intermediaire/README.md) *(French only)*
+**Previous:** [Level 00 — Introduction](../00-introduction/README.en.md) · **Next:** [Level 02 — Intermediate PHP](../02-php-intermediaire/README.en.md)

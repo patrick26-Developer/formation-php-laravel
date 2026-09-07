@@ -25,4 +25,4 @@ This level equips you with the tools every professional developer uses daily: a 
 - Set up a CI pipeline that automatically tests your code on every `push`.
 - Automate static analysis and formatting of your code.
 
-**Previous:** [Level 04 — Databases in Depth](../04-bases-de-donnees-approfondi/README.en.md) · **Next:** [Level 06 — Laravel Fundamentals](../06-laravel-fondamentaux/README.md) *(French only)*
+**Previous:** [Level 04 — Databases in Depth](../04-bases-de-donnees-approfondi/README.en.md) · **Next:** [Level 06 — Laravel Fundamentals](../06-laravel-fondamentaux/README.en.md)

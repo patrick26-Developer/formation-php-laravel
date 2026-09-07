@@ -26,4 +26,4 @@ Three migrations, in dependency order (`categories` before `articles`, `articles
 
 ## Going further (out of scope for this mini-project)
 
-This blog has **no authentication at all**: anyone can create, edit, or delete an article. This is a deliberate pedagogical choice to stay focused on Level 06's Eloquent/Blade CRUD — login protection (Breeze) is the subject of the [Level 07 mini-project](../../07-laravel-intermediaire/projet-mini-04-plateforme-annonces/README.md) *(French only)*, which reuses a very similar structure while adding precisely that layer.
+This blog has **no authentication at all**: anyone can create, edit, or delete an article. This is a deliberate pedagogical choice to stay focused on Level 06's Eloquent/Blade CRUD — login protection (Breeze) is the subject of the [Level 07 mini-project](../../07-laravel-intermediaire/projet-mini-04-plateforme-annonces/README.en.md), which reuses a very similar structure while adding precisely that layer.

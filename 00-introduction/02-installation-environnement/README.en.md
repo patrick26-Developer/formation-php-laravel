@@ -27,7 +27,7 @@ To develop in PHP and then in Laravel, you need at minimum:
 4. **A local server** — to run PHP in a browser (PHP includes a built-in development server, sufficient for the entire beginning of the path).
 5. **MySQL/MariaDB** — required starting at level 02 (PDO). Can be installed later, or right away via an all-in-one tool.
 
-> 💡 Two possible approaches: install each tool separately (what this module covers in detail), or use **Docker** directly (covered in detail in [module 05.2](../../05-outils-professionnels/02-docker-fondamentaux/README.md) *(French only)*). To get started, the classic local installation is easier to understand — you'll come back to Docker once the basics are solid.
+> 💡 Two possible approaches: install each tool separately (what this module covers in detail), or use **Docker** directly (covered in detail in [module 05.2](../../05-outils-professionnels/02-docker-fondamentaux/README.en.md)). To get started, the classic local installation is easier to understand — you'll come back to Docker once the basics are solid.
 
 ## 💡 Installing PHP
 

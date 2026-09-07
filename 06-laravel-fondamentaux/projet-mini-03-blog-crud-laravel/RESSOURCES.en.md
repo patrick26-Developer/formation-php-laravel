@@ -15,6 +15,6 @@
 
 ## Going further after this project
 
-- [Level 07.1 — Advanced Eloquent Relationships](../../07-laravel-intermediaire/01-eloquent-relations-avancees/README.md) *(French only)* — polymorphic relationships, `belongsToMany`.
-- [Level 07.4 — Authentication with Breeze/Fortify](../../07-laravel-intermediaire/04-authentification-breeze-fortify/README.md) *(French only)* — adding real authentication to this blog.
-- [Level 07.5 — Authorization: Policies and Gates](../../07-laravel-intermediaire/05-autorisations-policies-gates/README.md) *(French only)* — restricting article edits to their author.
+- [Level 07.1 — Advanced Eloquent Relationships](../../07-laravel-intermediaire/01-eloquent-relations-avancees/README.en.md) — polymorphic relationships, `belongsToMany`.
+- [Level 07.4 — Authentication with Breeze/Fortify](../../07-laravel-intermediaire/04-authentification-breeze-fortify/README.en.md) — adding real authentication to this blog.
+- [Level 07.5 — Authorization: Policies and Gates](../../07-laravel-intermediaire/05-autorisations-policies-gates/README.en.md) — restricting article edits to their author.

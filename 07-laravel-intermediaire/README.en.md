@@ -28,4 +28,4 @@ This level goes deeper into Eloquent (advanced relationships, scopes), and cover
 - Secure an application with complete authentication and a fine-grained authorization system.
 - Handle file uploads and send emails/notifications.
 
-**Previous:** [Level 06 — Laravel Fundamentals](../06-laravel-fondamentaux/README.en.md) · **Next:** [Level 08 — Advanced Laravel](../08-laravel-avance/README.md) *(French only)*
+**Previous:** [Level 06 — Laravel Fundamentals](../06-laravel-fondamentaux/README.en.md) · **Next:** [Level 08 — Advanced Laravel](../08-laravel-avance/README.en.md)

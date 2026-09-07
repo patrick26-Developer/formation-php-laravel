@@ -65,4 +65,4 @@ See [EXERCICES.md](EXERCICES.en.md) — about ten progressive exercises covering
 
 ---
 
-**Previous:** [04.3 — SQL Query Optimization](../03-optimisation-requetes/README.en.md) · **Next:** [Level 05 — Professional Tools](../../05-outils-professionnels/README.md) *(French only)*
+**Previous:** [04.3 — SQL Query Optimization](../03-optimisation-requetes/README.en.md) · **Next:** [Level 05 — Professional Tools](../../05-outils-professionnels/README.en.md)

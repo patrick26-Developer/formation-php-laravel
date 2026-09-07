@@ -138,7 +138,7 @@ exit;
 - [php.net/manual/en/book.session.php](https://www.php.net/manual/en/book.session.php)
 - [php.net/manual/en/function.password-hash.php](https://www.php.net/manual/en/function.password-hash.php)
 - [Module 02.6 — Web Security Fundamentals](../06-securite-web-fondamentaux/README.en.md)
-- [Module 07.4 — Authentication with Breeze/Fortify](../../07-laravel-intermediaire/04-authentification-breeze-fortify/README.md) *(French only)* (how Laravel automates all of this)
+- [Module 07.4 — Authentication with Breeze/Fortify](../../07-laravel-intermediaire/04-authentification-breeze-fortify/README.en.md) (how Laravel automates all of this)
 
 ## 📝 Exercises
 

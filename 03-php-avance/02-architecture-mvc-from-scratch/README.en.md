@@ -182,8 +182,8 @@ This is, broadly speaking, the flow that **every** request follows in a Laravel 
 
 ## ➡️ Going further
 
-- [Module 06.2 — Routing and Controllers (Laravel)](../../06-laravel-fondamentaux/02-routing-controllers/README.md) *(French only)*
-- [Large Project 01 — MVC Mini-Framework with API](../grand-projet-01-mini-framework-mvc-avec-api/README.md) *(French only)* (this module fully applied)
+- [Module 06.2 — Routing and Controllers (Laravel)](../../06-laravel-fondamentaux/02-routing-controllers/README.en.md)
+- [Large Project 01 — MVC Mini-Framework with API](../grand-projet-01-mini-framework-mvc-avec-api/README.en.md) (this module fully applied)
 
 ## 📝 Exercises
 

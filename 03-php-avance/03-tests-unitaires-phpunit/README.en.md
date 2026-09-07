@@ -171,8 +171,8 @@ class NotificationServiceTest extends TestCase {
 ## ➡️ Going further
 
 - [phpunit.de/documentation.html](https://phpunit.de/documentation.html)
-- [Module 08.3 — Testing with Pest and PHPUnit in Laravel](../../08-laravel-avance/03-tests-pest-phpunit-laravel/README.md) *(French only)*
-- [Module 05.4 — GitHub Actions: CI/CD Fundamentals](../../05-outils-professionnels/04-github-actions-ci-cd-fondamentaux/README.md) *(French only)* (running these tests automatically on every push)
+- [Module 08.3 — Testing with Pest and PHPUnit in Laravel](../../08-laravel-avance/03-tests-pest-phpunit-laravel/README.en.md)
+- [Module 05.4 — GitHub Actions: CI/CD Fundamentals](../../05-outils-professionnels/04-github-actions-ci-cd-fondamentaux/README.en.md) (running these tests automatically on every push)
 
 ## 📝 Exercises
 
