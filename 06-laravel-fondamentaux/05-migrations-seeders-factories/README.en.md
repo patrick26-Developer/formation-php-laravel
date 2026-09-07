@@ -159,7 +159,7 @@ php artisan migrate:fresh --seed     # combines migrate:fresh + db:seed into one
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

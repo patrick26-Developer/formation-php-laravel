@@ -148,7 +148,7 @@ Route::prefix('admin')->name('admin.')->group(function () {
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

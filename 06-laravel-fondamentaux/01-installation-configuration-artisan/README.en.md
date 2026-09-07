@@ -126,7 +126,7 @@ php artisan config:clear                                 # clears the configurat
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
