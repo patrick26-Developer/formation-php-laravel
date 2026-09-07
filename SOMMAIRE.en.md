@@ -42,16 +42,16 @@ This table of contents is the single reference for tracking progress and navigat
 
 | # | Module | Status |
 |---|---|---|
-| 02.1 | [OOP: the basics](02-php-intermediaire/01-poo-bases/README.md) | 📋 |
-| 02.2 | [Inheritance, interfaces, abstraction](02-php-intermediaire/02-poo-heritage-interfaces-abstraction/README.md) | 📋 |
-| 02.3 | [Advanced OOP: traits, static, magic methods](02-php-intermediaire/03-poo-avancee-traits-static-magic-methods/README.md) | 📋 |
-| 02.4 | [Exception handling](02-php-intermediaire/04-gestion-exceptions/README.md) | 📋 |
-| 02.5 | [Sessions, cookies, homemade authentication](02-php-intermediaire/05-sessions-cookies-authentification-maison/README.md) | 📋 |
-| 02.6 | [Web security fundamentals](02-php-intermediaire/06-securite-web-fondamentaux/README.md) | 📋 |
-| 02.7 | [Composer, autoloading, PSR](02-php-intermediaire/07-composer-autoload-psr/README.md) | 📋 |
-| 02.8 | [PDO and MySQL](02-php-intermediaire/08-pdo-bases-de-donnees-mysql/README.md) | 📋 |
-| 02.9 | [Full CRUD with PDO (sort, filter, search)](02-php-intermediaire/09-crud-complet-pdo-tri-filtre-recherche/README.md) | 📋 |
-| 🧩 | [Mini-project: Task Manager (CRUD PDO)](02-php-intermediaire/projet-mini-02-gestion-taches-crud-pdo/README.md) | 📋 |
+| 02.1 | [OOP: the basics](02-php-intermediaire/01-poo-bases/README.en.md) | ✅ |
+| 02.2 | [Inheritance, interfaces, abstraction](02-php-intermediaire/02-poo-heritage-interfaces-abstraction/README.en.md) | ✅ |
+| 02.3 | [Advanced OOP: traits, static, magic methods](02-php-intermediaire/03-poo-avancee-traits-static-magic-methods/README.en.md) | ✅ |
+| 02.4 | [Exception handling](02-php-intermediaire/04-gestion-exceptions/README.en.md) | ✅ |
+| 02.5 | [Sessions, cookies, homemade authentication](02-php-intermediaire/05-sessions-cookies-authentification-maison/README.en.md) | ✅ |
+| 02.6 | [Web security fundamentals](02-php-intermediaire/06-securite-web-fondamentaux/README.en.md) | ✅ |
+| 02.7 | [Composer, autoloading, PSR](02-php-intermediaire/07-composer-autoload-psr/README.en.md) | ✅ |
+| 02.8 | [PDO and MySQL](02-php-intermediaire/08-pdo-bases-de-donnees-mysql/README.en.md) | ✅ |
+| 02.9 | [Full CRUD with PDO (sort, filter, search)](02-php-intermediaire/09-crud-complet-pdo-tri-filtre-recherche/README.en.md) | ✅ |
+| 🧩 | [Mini-project: Task Manager (CRUD PDO)](02-php-intermediaire/projet-mini-02-gestion-taches-crud-pdo/README.en.md) | ✅ |
 
 ## Level 03 — Advanced PHP
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Level 00 and module 01.1 available**, translated level by level following the same order as the original French authoring. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00, 01 and 02 fully available**, translated level by level following the same order as the original French authoring. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
