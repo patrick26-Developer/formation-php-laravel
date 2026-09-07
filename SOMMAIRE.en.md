@@ -84,11 +84,11 @@ This table of contents is the single reference for tracking progress and navigat
 
 | # | Module | Status |
 |---|---|---|
-| 05.1 | [Advanced Git: branches, PRs, workflow](05-outils-professionnels/01-git-workflow-avance-branches-pr/README.md) | 📋 |
-| 05.2 | [Docker: the fundamentals](05-outils-professionnels/02-docker-fondamentaux/README.md) | 📋 |
-| 05.3 | [Docker Compose: PHP + MySQL + Nginx](05-outils-professionnels/03-docker-compose-php-mysql-nginx/README.md) | 📋 |
-| 05.4 | [GitHub Actions: CI/CD fundamentals](05-outils-professionnels/04-github-actions-ci-cd-fondamentaux/README.md) | 📋 |
-| 05.5 | [Code quality: PHPStan & PHP-CS-Fixer](05-outils-professionnels/05-qualite-code-phpstan-php-cs-fixer/README.md) | 📋 |
+| 05.1 | [Advanced Git: branches, PRs, workflow](05-outils-professionnels/01-git-workflow-avance-branches-pr/README.en.md) | ✅ |
+| 05.2 | [Docker: the fundamentals](05-outils-professionnels/02-docker-fondamentaux/README.en.md) | ✅ |
+| 05.3 | [Docker Compose: PHP + MySQL + Nginx](05-outils-professionnels/03-docker-compose-php-mysql-nginx/README.en.md) | ✅ |
+| 05.4 | [GitHub Actions: CI/CD fundamentals](05-outils-professionnels/04-github-actions-ci-cd-fondamentaux/README.en.md) | ✅ |
+| 05.5 | [Code quality: PHPStan & PHP-CS-Fixer](05-outils-professionnels/05-qualite-code-phpstan-php-cs-fixer/README.en.md) | ✅ |
 
 ## Level 06 — Laravel Fundamentals
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 04 fully available**, translated level by level following the same order as the original French authoring. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 05 fully available** (40/91 modules — the entire framework-free/cross-cutting PHP portion), translated level by level following the same order as the original French authoring. Laravel levels (06+) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
