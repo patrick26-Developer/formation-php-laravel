@@ -183,13 +183,13 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Level 13 — Complete Minimal Large Projects
 
-> Tier: Portfolio · [Level index](13-grands-projets/README.md)
+> Tier: Portfolio · [Level index](13-grands-projets/README.en.md)
 
 | # | Module | Status |
 |---|---|---|
-| 🏗️ | [Minimal e-commerce](13-grands-projets/grand-projet-02-ecommerce-minimal/README.md) | 📋 |
-| 🏗️ | [Minimal social network](13-grands-projets/grand-projet-03-reseau-social-minimal/README.md) | 📋 |
-| 🏗️ | [Multi-tenant billing SaaS](13-grands-projets/grand-projet-04-saas-facturation/README.md) | 📋 |
+| 🏗️ | [Minimal e-commerce](13-grands-projets/grand-projet-02-ecommerce-minimal/README.en.md) | ✅ |
+| 🏗️ | [Minimal social network](13-grands-projets/grand-projet-03-reseau-social-minimal/README.en.md) | ✅ |
+| 🏗️ | [Multi-tenant billing SaaS](13-grands-projets/grand-projet-04-saas-facturation/README.en.md) | ✅ |
 
 ## Level 14 — Professional Preparation
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 12 fully available** (82/91 modules), translated level by level following the same order as the original French authoring. Levels 13+ (Complete Minimal Large Projects onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 13 fully available** (85/91 modules), translated level by level following the same order as the original French authoring. Level 14 (Professional Preparation) is next and last. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.

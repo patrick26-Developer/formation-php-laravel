@@ -12,5 +12,5 @@
 
 ## Going further after this project
 
-- [Level 13 — Complete Minimal Large Projects](../../13-grands-projets/README.md) *(French only)*
+- [Level 13 — Complete Minimal Large Projects](../../13-grands-projets/README.en.md)
 - [Level 07.7 — Notifications and Emails](../../07-laravel-intermediaire/07-notifications-mail/README.en.md) — send an automatic alert when an error spike is detected.

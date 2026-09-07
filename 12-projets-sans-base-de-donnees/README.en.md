@@ -22,4 +22,4 @@ Every previous project relied on a database. This level shows that PHP and Larav
 - Consume an external HTTP API with local caching, with no database.
 - Create your own custom Artisan commands.
 
-**Previous:** [Level 11 — Advanced DevOps](../11-devops-docker-cicd-avance/README.en.md) · **Next:** [Level 13 — Complete Minimal Large Projects](../13-grands-projets/README.md) *(French only)*
+**Previous:** [Level 11 — Advanced DevOps](../11-devops-docker-cicd-avance/README.en.md) · **Next:** [Level 13 — Complete Minimal Large Projects](../13-grands-projets/README.en.md)

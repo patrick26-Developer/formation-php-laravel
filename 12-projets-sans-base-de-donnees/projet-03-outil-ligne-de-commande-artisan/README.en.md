@@ -38,4 +38,4 @@ projet-03-outil-ligne-de-commande-artisan/
 2. [EXECUTION.md](EXECUTION.en.md).
 3. [JOURNAL.md](JOURNAL.en.md) — the build process.
 
-**Next in the path:** [Level 13 — Complete Minimal Large Projects](../../13-grands-projets/README.md) *(French only)*
+**Next in the path:** [Level 13 — Complete Minimal Large Projects](../../13-grands-projets/README.en.md)
