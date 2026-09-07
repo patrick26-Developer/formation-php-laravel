@@ -135,7 +135,7 @@ Once the workflow is in place, GitHub lets you display a badge in the repository
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

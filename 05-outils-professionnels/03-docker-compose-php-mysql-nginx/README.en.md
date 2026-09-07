@@ -150,7 +150,7 @@ Docker Compose automatically reads a `.env` file located in the same folder as `
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

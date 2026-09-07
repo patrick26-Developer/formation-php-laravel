@@ -145,7 +145,7 @@ $repository->modifer(1); // typo: "modifer" instead of "modifier"
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
