@@ -92,3 +92,12 @@
 - Construction complète des 3 projets du Niveau 12 : générateur de PDF en ligne de commande (Dompdf, lecture CSV, échappement HTML systématique, test vérifiant la signature binaire du PDF), consommation d'une API météo externe (Guzzle, cache fichier maison reproduisant l'API de `Cache::remember()`, tests entièrement mockés sans appel réseau réel via `MockHandler`), commande Artisan personnalisée d'analyse de logs (signature avec arguments/options, codes de sortie exploitables en CI, tests via `$this->artisan()`, scheduler Laravel) — chacun avec kit documentaire complet.
 - Ce niveau démontre volontairement que PHP/Laravel restent pertinents hors du contexte CRUD+base de données qui domine le reste de la formation.
 - Mise à jour de [SOMMAIRE.md](SOMMAIRE.md) et [ROADMAP.md](ROADMAP.md) : Niveau 12 marqué disponible (82/91 modules), passage au Niveau 13 (Grands projets portfolio).
+
+## 2026-09-06 — Niveau 13 complet (Grands projets portfolio)
+
+- Construction complète des 3 grands projets du Niveau 13 :
+  - **E-commerce minimal** : panier en session, tunnel de commande encapsulé dans une transaction unique (création, décrémentation atomique du stock, paiement), dénormalisation assumée sur `order_items` pour préserver l'historique, passerelle de paiement interchangeable via interface, tests couvrant explicitement le rollback sur échec de paiement.
+  - **Réseau social minimal** : relation N-N auto-référencée (`follows`), fil d'actualité filtré en une seule requête, notifications avec garde-fous (jamais de notification pour un like/follow sur soi-même), même domaine exposé en Blade et en API Sanctum sans duplication de logique.
+  - **SaaS de facturation multi-tenant** : extension du multi-tenant du niveau 08 avec limites de plan actives (`PlanLimitService`), facturation planifiée via le scheduler Laravel, décision transactionnelle documentée en détail (une facture impayée doit SURVIVRE à l'échec de paiement, contrairement à une commande e-commerce), Dockerfile/docker-compose complets, et un pipeline CI/CD (`.github/workflows/ci.yml`) pensé comme modèle réutilisable pour tout projet de la formation.
+- Ces trois projets clôturent la partie pratique de la formation (niveaux 00 à 13) — seul le Niveau 14 (préparation professionnelle, sans code) reste à rédiger.
+- Mise à jour de [SOMMAIRE.md](SOMMAIRE.md) et [ROADMAP.md](ROADMAP.md) : Niveau 13 marqué disponible (85/91 modules), passage au Niveau 14 (Préparation professionnelle).

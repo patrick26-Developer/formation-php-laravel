@@ -185,9 +185,9 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 | # | Module | Statut |
 |---|---|---|
-| 🏗️ | [E-commerce minimal](13-grands-projets/grand-projet-02-ecommerce-minimal/README.md) | 📋 |
-| 🏗️ | [Réseau social minimal](13-grands-projets/grand-projet-03-reseau-social-minimal/README.md) | 📋 |
-| 🏗️ | [SaaS de facturation multi-tenant](13-grands-projets/grand-projet-04-saas-facturation/README.md) | 📋 |
+| 🏗️ | [E-commerce minimal](13-grands-projets/grand-projet-02-ecommerce-minimal/README.md) | ✅ |
+| 🏗️ | [Réseau social minimal](13-grands-projets/grand-projet-03-reseau-social-minimal/README.md) | ✅ |
+| 🏗️ | [SaaS de facturation multi-tenant](13-grands-projets/grand-projet-04-saas-facturation/README.md) | ✅ |
 
 ## Niveau 14 — Préparation professionnelle
 
@@ -211,4 +211,4 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 ## Progression globale
 
-**82 / 91 modules rédigés** — Niveaux 00 à 12 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé, API REST Laravel, Fullstack Livewire, DevOps avancé, Projets sans base de données). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
+**85 / 91 modules rédigés** — Niveaux 00 à 13 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé, API REST Laravel, Fullstack Livewire, DevOps avancé, Projets sans base de données, Grands projets portfolio). Seul le Niveau 14 (Préparation professionnelle) reste à rédiger. Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.

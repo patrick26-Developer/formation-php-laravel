@@ -1,26 +1,48 @@
 # Grand projet : Réseau social minimal
 
-> **Statut :** 📋 Planifié — contenu à venir
+> **Statut :** ✅ Disponible
 
-## Objectif pédagogique
+## 🎯 Objectif pédagogique
 
-Publications, follow, likes, notifications et API pour une future app mobile.
+Construire un réseau social minimal : publications, système de follow (relation N-N auto-référencée), likes, notifications, et une API pour une future application mobile — synthèse des relations Eloquent avancées, de l'authentification et des notifications.
 
-## Ce que vous allez apprendre
+## 📋 Modules mobilisés
 
-- (à venir)
+- [07.1 — Relations Eloquent avancées](../../07-laravel-intermediaire/01-eloquent-relations-avancees/README.md) (relation N-N auto-référencée `follows`, `withCount`)
+- [07.7 — Notifications et emails](../../07-laravel-intermediaire/07-notifications-mail/README.md) (centre de notifications en base)
+- [09 — API REST avec Laravel](../../09-api-rest-laravel/README.md) (Sanctum, Resources, `whenCounted`)
+- [08.3 — Tests Pest](../../08-laravel-avance/03-tests-pest-phpunit-laravel/README.md) (`Notification::fake()`)
 
-## Kit documentaire du projet
+## 🧠 Ce que vous allez apprendre
 
-Une fois publié, ce dossier contiendra le kit standard de tout projet de la formation :
+- Modéliser une relation N-N **auto-référencée** (`User` suit `User`) avec deux méthodes de relation distinctes (`following()`/`followers()`) pointant vers la même table pivot mais des colonnes différentes.
+- Construire un fil d'actualité filtré par abonnements (`whereIn` sur un ensemble d'IDs calculé dynamiquement).
+- Notifier intelligemment : jamais de notification pour un like sur son propre post, ni pour un follow de soi-même (interdit en amont).
+- Exposer le même domaine (`Post`) à la fois en Blade (web) et en API (Sanctum), avec une `PostResource` calculant `aime_par_moi` selon l'utilisateur de la requête.
 
-| Fichier | Rôle |
-|---|---|
-| `README.md` | Présentation, objectifs pédagogiques, prérequis |
-| `INSTALLATION.md` | Dépendances à installer et étapes de configuration |
-| `EXECUTION.md` | Comment lancer et utiliser le projet au quotidien |
-| `JOURNAL.md` | Journal de construction du projet, étape par étape |
-| `RESSOURCES.md` | Liens rapides vers la documentation officielle et les cheatsheets utiles |
+## 📂 Structure du projet
 
----
-*Ce module fait partie du [Sommaire complet](../../SOMMAIRE.md).*
+```
+grand-projet-03-reseau-social-minimal/
+├── README.md / INSTALLATION.md / EXECUTION.md / JOURNAL.md / RESSOURCES.md
+├── database/{migrations,factories,seeders}/
+├── app/
+│   ├── Models/Post.php (+ ajouts à User)
+│   ├── Notifications/          # NouvelAbonneNotification, PostAimeNotification
+│   ├── Policies/PostPolicy.php
+│   ├── Http/
+│   │   ├── Controllers/         # PostController, FollowController, LikeController, Api/FeedController
+│   │   └── Resources/PostResource.php
+├── routes/{web.php,api.php}
+├── resources/views/posts/feed.blade.php
+└── tests/Feature/FeedTest.php
+```
+
+## 🚀 Pour commencer
+
+1. [INSTALLATION.md](INSTALLATION.md).
+2. [EXECUTION.md](EXECUTION.md) — commencez par `FeedTest`.
+3. **Avant de lire le code fourni**, essayez de concevoir vous-même `following()`/`followers()` à partir du module 07.1.
+4. [JOURNAL.md](JOURNAL.md) — la démarche complète de construction.
+
+**Suite du parcours :** [Grand projet : SaaS de facturation multi-tenant](../grand-projet-04-saas-facturation/README.md)
