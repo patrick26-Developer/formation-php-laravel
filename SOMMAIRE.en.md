@@ -122,16 +122,16 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Level 08 — Advanced Laravel
 
-> Tier: Advanced · [Level index](08-laravel-avance/README.md)
+> Tier: Advanced · [Level index](08-laravel-avance/README.en.md)
 
 | # | Module | Status |
 |---|---|---|
-| 08.1 | [Jobs, Queues, Events, Listeners](08-laravel-avance/01-jobs-queues-events-listeners/README.md) | 📋 |
-| 08.2 | [Cache and performance optimization](08-laravel-avance/02-cache-optimisation-performance/README.md) | 📋 |
-| 08.3 | [Testing with Pest and PHPUnit in Laravel](08-laravel-avance/03-tests-pest-phpunit-laravel/README.md) | 📋 |
-| 08.4 | [Service Providers and custom packages](08-laravel-avance/04-packages-service-providers-personnalises/README.md) | 📋 |
-| 08.5 | [Modular architecture and multi-tenancy](08-laravel-avance/05-architecture-modulaire/README.md) | 📋 |
-| 🧩 | [Mini-project: Multi-user SaaS](08-laravel-avance/projet-mini-05-saas-multi-utilisateurs/README.md) | 📋 |
+| 08.1 | [Jobs, Queues, Events, Listeners](08-laravel-avance/01-jobs-queues-events-listeners/README.en.md) | ✅ |
+| 08.2 | [Cache and performance optimization](08-laravel-avance/02-cache-optimisation-performance/README.en.md) | ✅ |
+| 08.3 | [Testing with Pest and PHPUnit in Laravel](08-laravel-avance/03-tests-pest-phpunit-laravel/README.en.md) | ✅ |
+| 08.4 | [Service Providers and custom packages](08-laravel-avance/04-packages-service-providers-personnalises/README.en.md) | ✅ |
+| 08.5 | [Modular architecture and multi-tenancy](08-laravel-avance/05-architecture-modulaire/README.en.md) | ✅ |
+| 🧩 | [Mini-project: Multi-user SaaS](08-laravel-avance/projet-mini-05-saas-multi-utilisateurs/README.en.md) | ✅ |
 
 ## Level 09 — REST API with Laravel
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 07 fully available** (56/91 modules), translated level by level following the same order as the original French authoring. Levels 08+ (Advanced Laravel onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 08 fully available** (62/91 modules), translated level by level following the same order as the original French authoring. Levels 09+ (REST API with Laravel onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.

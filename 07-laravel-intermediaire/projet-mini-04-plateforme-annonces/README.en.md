@@ -53,4 +53,4 @@ projet-mini-04-plateforme-annonces/
 3. **Before reading the provided code**, try building `AnnoncePolicy` and wiring it into the controller yourself, based on module 07.5.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process.
 
-**Next in the path:** [Level 08 — Advanced Laravel](../../08-laravel-avance/README.md) *(French only)*
+**Next in the path:** [Level 08 — Advanced Laravel](../../08-laravel-avance/README.en.md)
