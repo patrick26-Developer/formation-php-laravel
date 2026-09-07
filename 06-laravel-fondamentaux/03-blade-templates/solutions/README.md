@@ -87,4 +87,4 @@ public function store(Request $request)
     return back()->withErrors(['titre' => 'Le titre est requis.'])->withInput();
 }
 ```
-`old('titre')` réaffiche la valeur précédemment saisie (grâce à `withInput()`), exactement comme le faisait manuellement le formulaire du [module 01.7](../../01-php-fondamentaux/07-formulaires-http-get-post/README.md) avec `htmlspecialchars($_POST['titre'] ?? '')`.
+`old('titre')` réaffiche la valeur précédemment saisie (grâce à `withInput()`), exactement comme le faisait manuellement le formulaire du [module 01.7](../../../01-php-fondamentaux/07-formulaires-http-get-post/README.md) avec `htmlspecialchars($_POST['titre'] ?? '')`.
