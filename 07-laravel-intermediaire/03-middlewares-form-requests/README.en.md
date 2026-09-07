@@ -127,7 +127,7 @@ If `authorize()` returns `false`, Laravel automatically returns a **403** error,
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
