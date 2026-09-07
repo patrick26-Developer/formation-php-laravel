@@ -211,4 +211,4 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 ## Progression globale
 
-**91 / 91 modules rédigés — la formation complète est disponible**, des 15 niveaux (00 à 14) aux 10 mini/grands projets. Reste : les ressources transversales ([ressources/](ressources/)) et la traduction anglaise. Voir [ROADMAP.md](ROADMAP.md) pour le détail.
+**91 / 91 modules rédigés + ressources transversales complètes — la formation est fonctionnellement terminée**, des 15 niveaux (00 à 14) aux 10 mini/grands projets. Reste, en continu : la traduction anglaise et l'entretien du contenu au fil des versions PHP/Laravel. Voir [ROADMAP.md](ROADMAP.md) pour le détail.

@@ -108,3 +108,10 @@
 - Ces modules, de nature réflexive, utilisent des corrigés indicatifs (`solutions/README.md`) plutôt que du code à faire fonctionner — cohérent avec leur objectif de préparation professionnelle plutôt que technique.
 - **Les 91 modules identifiés dans l'architecture initiale sont désormais tous rédigés**, couvrant les 15 niveaux (00 à 14) et les 10 mini/grands projets, du premier `echo` en PHP jusqu'à un SaaS multi-tenant avec Docker et CI/CD.
 - Mise à jour de [SOMMAIRE.md](SOMMAIRE.md) et [ROADMAP.md](ROADMAP.md) : formation à 91/91 modules. Reste : ressources transversales ([ressources/](ressources/)) et traduction anglaise.
+
+## 2026-09-06 — Ressources transversales complètes : formation fonctionnellement terminée
+
+- Rédaction de 5 cheatsheets ([ressources/cheatsheets/](ressources/cheatsheets/)) : PHP, Laravel, SQL, Git, Docker — chacune couvrant les commandes/syntaxes les plus consultées au quotidien, avec renvoi vers les niveaux correspondants.
+- Rédaction du [glossaire](ressources/glossaire.md) (30+ termes techniques) et de [liens-utiles.md](ressources/liens-utiles.md) (documentation officielle, écosystème, communauté).
+- Rédaction de la [FAQ](ressources/faq.md), répondant aux questions attendues sur l'ordre de progression, l'environnement, la pédagogie et la licence.
+- **La formation est désormais fonctionnellement complète : 91/91 modules rédigés (15 niveaux, 10 mini/grands projets) + ressources transversales**, publiée sur [patrick26-Developer/formation-php-laravel](https://github.com/patrick26-Developer/formation-php-laravel). Reste en continu : la traduction anglaise et l'entretien du contenu au fil des évolutions de versions PHP/Laravel.
