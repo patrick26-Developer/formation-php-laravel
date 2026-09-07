@@ -175,9 +175,9 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 | # | Module | Statut |
 |---|---|---|
-| 🧩 | [Générateur de PDF en ligne de commande](12-projets-sans-base-de-donnees/projet-01-generateur-pdf-cli/README.md) | 📋 |
-| 🧩 | [Consommation d'une API externe](12-projets-sans-base-de-donnees/projet-02-api-consommation-externe/README.md) | 📋 |
-| 🧩 | [Outil CLI avec Artisan](12-projets-sans-base-de-donnees/projet-03-outil-ligne-de-commande-artisan/README.md) | 📋 |
+| 🧩 | [Générateur de PDF en ligne de commande](12-projets-sans-base-de-donnees/projet-01-generateur-pdf-cli/README.md) | ✅ |
+| 🧩 | [Consommation d'une API externe](12-projets-sans-base-de-donnees/projet-02-api-consommation-externe/README.md) | ✅ |
+| 🧩 | [Outil CLI avec Artisan](12-projets-sans-base-de-donnees/projet-03-outil-ligne-de-commande-artisan/README.md) | ✅ |
 
 ## Niveau 13 — Grands projets minimaux complets
 
@@ -211,4 +211,4 @@ Ce sommaire est la référence unique pour suivre l'avancement de la formation e
 
 ## Progression globale
 
-**79 / 91 modules rédigés** — Niveaux 00 à 11 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé, API REST Laravel, Fullstack Livewire, DevOps avancé). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
+**82 / 91 modules rédigés** — Niveaux 00 à 12 complets (Introduction, PHP Fondamentaux, PHP Intermédiaire, PHP Avancé, Bases de données approfondies, Outils professionnels, Laravel Fondamentaux, Laravel Intermédiaire, Laravel Avancé, API REST Laravel, Fullstack Livewire, DevOps avancé, Projets sans base de données). Voir [ROADMAP.md](ROADMAP.md) pour le détail de la progression.
