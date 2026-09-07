@@ -103,7 +103,7 @@ php artisan migrate --force   # --force needed because Laravel asks for confirma
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

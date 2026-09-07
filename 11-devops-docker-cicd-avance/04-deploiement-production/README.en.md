@@ -104,7 +104,7 @@ A naive deployment (stop the old version, deploy the new one, restart) causes a 
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
