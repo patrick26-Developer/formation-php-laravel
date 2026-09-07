@@ -135,7 +135,7 @@ if (!hash_equals($_SESSION['csrf_token'] ?? '', $receivedToken)) {
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

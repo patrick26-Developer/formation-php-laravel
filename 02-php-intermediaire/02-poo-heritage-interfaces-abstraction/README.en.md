@@ -176,7 +176,7 @@ echo $rectangle->describe(); // This shape has an area of 20 m².
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
