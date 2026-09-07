@@ -52,4 +52,4 @@ projet-mini-03-blog-crud-laravel/
 3. **Before reading the provided code**, try building `ArticleController::index()` with sort/filter/search yourself, based on module 06.7.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process.
 
-**Next in the path:** [Level 07 — Intermediate Laravel](../../07-laravel-intermediaire/README.md) *(French only)*
+**Next in the path:** [Level 07 — Intermediate Laravel](../../07-laravel-intermediaire/README.en.md)

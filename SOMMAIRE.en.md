@@ -107,18 +107,18 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Level 07 — Intermediate Laravel
 
-> Tier: Intermediate · [Level index](07-laravel-intermediaire/README.md)
+> Tier: Intermediate · [Level index](07-laravel-intermediaire/README.en.md)
 
 | # | Module | Status |
 |---|---|---|
-| 07.1 | [Advanced Eloquent relationships](07-laravel-intermediaire/01-eloquent-relations-avancees/README.md) | 📋 |
-| 07.2 | [Scopes, accessors, mutators](07-laravel-intermediaire/02-eloquent-scopes-accessors-mutators/README.md) | 📋 |
-| 07.3 | [Middlewares and Form Requests](07-laravel-intermediaire/03-middlewares-form-requests/README.md) | 📋 |
-| 07.4 | [Authentication with Breeze/Fortify](07-laravel-intermediaire/04-authentification-breeze-fortify/README.md) | 📋 |
-| 07.5 | [Authorization: Policies and Gates](07-laravel-intermediaire/05-autorisations-policies-gates/README.md) | 📋 |
-| 07.6 | [File uploads and Storage](07-laravel-intermediaire/06-upload-fichiers-storage/README.md) | 📋 |
-| 07.7 | [Notifications and email sending](07-laravel-intermediaire/07-notifications-mail/README.md) | 📋 |
-| 🧩 | [Mini-project: Classifieds platform](07-laravel-intermediaire/projet-mini-04-plateforme-annonces/README.md) | 📋 |
+| 07.1 | [Advanced Eloquent relationships](07-laravel-intermediaire/01-eloquent-relations-avancees/README.en.md) | ✅ |
+| 07.2 | [Scopes, accessors, mutators](07-laravel-intermediaire/02-eloquent-scopes-accessors-mutators/README.en.md) | ✅ |
+| 07.3 | [Middlewares and Form Requests](07-laravel-intermediaire/03-middlewares-form-requests/README.en.md) | ✅ |
+| 07.4 | [Authentication with Breeze/Fortify](07-laravel-intermediaire/04-authentification-breeze-fortify/README.en.md) | ✅ |
+| 07.5 | [Authorization: Policies and Gates](07-laravel-intermediaire/05-autorisations-policies-gates/README.en.md) | ✅ |
+| 07.6 | [File uploads and Storage](07-laravel-intermediaire/06-upload-fichiers-storage/README.en.md) | ✅ |
+| 07.7 | [Notifications and email sending](07-laravel-intermediaire/07-notifications-mail/README.en.md) | ✅ |
+| 🧩 | [Mini-project: Classifieds platform](07-laravel-intermediaire/projet-mini-04-plateforme-annonces/README.en.md) | ✅ |
 
 ## Level 08 — Advanced Laravel
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 06 fully available** (48/91 modules), translated level by level following the same order as the original French authoring. Levels 07+ (Laravel Intermediate onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 07 fully available** (56/91 modules), translated level by level following the same order as the original French authoring. Levels 08+ (Advanced Laravel onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
