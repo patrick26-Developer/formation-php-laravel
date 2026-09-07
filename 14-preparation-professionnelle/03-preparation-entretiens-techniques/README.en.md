@@ -74,7 +74,7 @@ A technical interview often includes non-technical questions ("Tell me about a d
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

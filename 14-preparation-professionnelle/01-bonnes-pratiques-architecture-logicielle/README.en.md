@@ -70,7 +70,7 @@ Revisit the [billing SaaS large project](../../13-grands-projets/grand-projet-04
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

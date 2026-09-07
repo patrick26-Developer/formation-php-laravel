@@ -72,7 +72,7 @@ This training covers a solid, complete foundation, but the PHP/Laravel ecosystem
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
