@@ -107,7 +107,7 @@ print_r($numbers[0]); // ["3", "12"]
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

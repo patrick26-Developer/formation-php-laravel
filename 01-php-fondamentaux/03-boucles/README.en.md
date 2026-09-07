@@ -121,7 +121,7 @@ for ($row = 1; $row <= 3; $row++) {
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

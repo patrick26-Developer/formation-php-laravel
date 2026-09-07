@@ -132,7 +132,7 @@ echo "$latitude, $longitude"; // 45.75, 4.85
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

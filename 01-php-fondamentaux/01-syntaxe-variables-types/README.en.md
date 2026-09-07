@@ -189,7 +189,7 @@ echo "Price incl. VAT: " . round($priceInclVat, 2) . "\n";
 
 ## 📝 Exercises
 
-Now move on to [EXERCICES.md](EXERCICES.md) *(currently French only)* — **only check `solutions/` after attempting each exercise.**
+Now move on to [EXERCICES.md](EXERCICES.en.md) — **only check `solutions/` after attempting each exercise.**
 
 ---
 
