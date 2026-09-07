@@ -161,15 +161,15 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Level 11 — DevOps: Advanced Docker & CI/CD
 
-> Tier: Expert · [Level index](11-devops-docker-cicd-avance/README.md)
+> Tier: Expert · [Level index](11-devops-docker-cicd-avance/README.en.md)
 
 | # | Module | Status |
 |---|---|---|
-| 11.1 | [Fully dockerizing a Laravel application](11-devops-docker-cicd-avance/01-dockerisation-application-laravel-complete/README.md) | 📋 |
-| 11.2 | [Multiple environments (dev/staging/prod)](11-devops-docker-cicd-avance/02-environnements-multiples-dev-staging-prod/README.md) | 📋 |
-| 11.3 | [Complete CI/CD pipeline with GitHub Actions](11-devops-docker-cicd-avance/03-pipeline-cicd-github-actions-laravel/README.md) | 📋 |
-| 11.4 | [Production deployment](11-devops-docker-cicd-avance/04-deploiement-production/README.md) | 📋 |
-| 11.5 | [Monitoring and log management](11-devops-docker-cicd-avance/05-monitoring-logs/README.md) | 📋 |
+| 11.1 | [Fully dockerizing a Laravel application](11-devops-docker-cicd-avance/01-dockerisation-application-laravel-complete/README.en.md) | ✅ |
+| 11.2 | [Multiple environments (dev/staging/prod)](11-devops-docker-cicd-avance/02-environnements-multiples-dev-staging-prod/README.en.md) | ✅ |
+| 11.3 | [Complete CI/CD pipeline with GitHub Actions](11-devops-docker-cicd-avance/03-pipeline-cicd-github-actions-laravel/README.en.md) | ✅ |
+| 11.4 | [Production deployment](11-devops-docker-cicd-avance/04-deploiement-production/README.en.md) | ✅ |
+| 11.5 | [Monitoring and log management](11-devops-docker-cicd-avance/05-monitoring-logs/README.en.md) | ✅ |
 
 ## Level 12 — Projects Without a Database
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 10 fully available** (74/91 modules), translated level by level following the same order as the original French authoring. Levels 11+ (Advanced DevOps onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 11 fully available** (79/91 modules), translated level by level following the same order as the original French authoring. Levels 12+ (Projects Without a Database onward) are next. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.

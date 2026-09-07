@@ -25,4 +25,4 @@ A separate API (level 09) isn't always necessary: **Livewire** lets you build re
 - Add lightweight client-side interactivity with Alpine.js alongside it.
 - Build dynamic data tables (sort, filter, search) with no page reload.
 
-**Previous:** [Level 09 — REST API with Laravel](../09-api-rest-laravel/README.en.md) · **Next:** [Level 11 — Advanced DevOps](../11-devops-docker-cicd-avance/README.md) *(French only)*
+**Previous:** [Level 09 — REST API with Laravel](../09-api-rest-laravel/README.en.md) · **Next:** [Level 11 — Advanced DevOps](../11-devops-docker-cicd-avance/README.en.md)

@@ -47,4 +47,4 @@ projet-mini-07-dashboard-admin-livewire/
 3. **Before reading the provided code**, try building the event-based communication between the two components yourself, based on module 10.2.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process.
 
-**Next in the path:** [Level 11 — Advanced DevOps](../../11-devops-docker-cicd-avance/README.md) *(French only)*
+**Next in the path:** [Level 11 — Advanced DevOps](../../11-devops-docker-cicd-avance/README.en.md)
