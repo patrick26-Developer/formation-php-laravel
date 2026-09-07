@@ -73,10 +73,10 @@ This table of contents is the single reference for tracking progress and navigat
 
 | # | Module | Status |
 |---|---|---|
-| 04.1 | [Relational modeling (ERD)](04-bases-de-donnees-approfondi/01-modelisation-relationnelle-mcd-mld/README.md) | 📋 |
-| 04.2 | [Advanced SQL: joins, indexes, transactions](04-bases-de-donnees-approfondi/02-sql-avance-jointures-index-transactions/README.md) | 📋 |
-| 04.3 | [Query optimization](04-bases-de-donnees-approfondi/03-optimisation-requetes/README.md) | 📋 |
-| 04.4 | [Practical SQL exercises](04-bases-de-donnees-approfondi/04-exercices-pratiques-sql/README.md) | 📋 |
+| 04.1 | [Relational modeling (ERD)](04-bases-de-donnees-approfondi/01-modelisation-relationnelle-mcd-mld/README.en.md) | ✅ |
+| 04.2 | [Advanced SQL: joins, indexes, transactions](04-bases-de-donnees-approfondi/02-sql-avance-jointures-index-transactions/README.en.md) | ✅ |
+| 04.3 | [Query optimization](04-bases-de-donnees-approfondi/03-optimisation-requetes/README.en.md) | ✅ |
+| 04.4 | [Practical SQL exercises](04-bases-de-donnees-approfondi/04-exercices-pratiques-sql/README.en.md) | ✅ |
 
 ## Level 05 — Professional Tools
 
@@ -213,4 +213,4 @@ This table of contents is the single reference for tracking progress and navigat
 
 ## Overall progress
 
-**English translation: Levels 00 through 03 fully available**, translated level by level following the same order as the original French authoring. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
+**English translation: Levels 00 through 04 fully available**, translated level by level following the same order as the original French authoring. See [ROADMAP.md](ROADMAP.md) for detailed progress. The French version ([SOMMAIRE.md](SOMMAIRE.md)) is complete at 91/91 modules and remains the reference if a translated page is not yet available.
