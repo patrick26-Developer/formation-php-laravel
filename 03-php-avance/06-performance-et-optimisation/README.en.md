@@ -133,7 +133,7 @@ For most cases (checking that a piece of data exists and isn't empty), `isset()`
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 

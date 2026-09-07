@@ -170,7 +170,7 @@ Already built in practice in [module 02.9](../../02-php-intermediaire/09-crud-co
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
