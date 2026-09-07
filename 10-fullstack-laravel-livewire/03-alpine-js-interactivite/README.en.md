@@ -89,7 +89,7 @@ Every Livewire interaction triggers a network request to the server (module 10.1
 
 ## 📝 Exercises
 
-See [EXERCICES.md](EXERCICES.md) *(currently French only)*.
+See [EXERCICES.md](EXERCICES.en.md).
 
 ---
 
