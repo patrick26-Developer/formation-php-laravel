@@ -22,4 +22,4 @@ Create a Livewire component with a `total` property. From a separate Alpine bloc
 
 ---
 
-See [solutions/README.md](solutions/README.md) for the answer key.
+See [solutions/README.md](solutions/README.en.md) for the answer key.
