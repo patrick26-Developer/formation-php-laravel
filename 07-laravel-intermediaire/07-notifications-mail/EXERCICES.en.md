@@ -22,4 +22,4 @@ On the [level 06 mini-project](../../06-laravel-fondamentaux/projet-mini-03-blog
 
 ---
 
-See [solutions/README.md](solutions/README.md) for the answer key.
+See [solutions/README.md](solutions/README.en.md) for the answer key.
