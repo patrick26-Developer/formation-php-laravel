@@ -34,4 +34,4 @@ Create a `journal_activite` table with at least 10,000 generated rows (use a PHP
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

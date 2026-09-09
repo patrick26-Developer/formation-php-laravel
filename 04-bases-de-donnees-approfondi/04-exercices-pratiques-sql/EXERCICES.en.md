@@ -40,4 +40,4 @@ Explain why a classic index on `nom` wouldn't significantly help this query, and
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

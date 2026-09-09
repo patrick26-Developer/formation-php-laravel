@@ -40,4 +40,4 @@ Identify at least two potential performance problems (hint: a function on a date
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

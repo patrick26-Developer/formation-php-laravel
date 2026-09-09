@@ -25,4 +25,4 @@ Model a complete library management system with: `auteurs`, `livres` (1 author p
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.
