@@ -22,4 +22,4 @@ Write a fictional post-mortem (`POSTMORTEM.md`) following the lesson's method fo
 
 ---
 
-See [solutions/README.md](solutions/README.md) for the answer key.
+See [solutions/README.md](solutions/README.en.md) for the answer key.
