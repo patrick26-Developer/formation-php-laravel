@@ -1,0 +1,353 @@
+/* ==========================================================================
+   PHP → Laravel — Premium documentation theme
+   Inspired by laravel.com: warm off-white canvas, near-black ink, a single
+   confident red accent, generous whitespace, no emoji used as UI icons.
+   ========================================================================== */
+
+:root {
+  --color-bg: #fdfdfc;
+  --color-surface: #ffffff;
+  --color-sidebar-bg: #fbfbfa;
+  --color-ink: #1b1b18;
+  --color-body: #3a3a35;
+  --color-muted: #78766e;
+  --color-border: #e6e4dd;
+  --color-border-strong: #d8d5cb;
+
+  --color-primary: #ff2d20;
+  --color-primary-dark: #d92515;
+  --color-primary-tint: #fff1ef;
+  --color-primary-tint-border: #ffd9d3;
+
+  --font-sans: 'Figtree', ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+
+  --shadow-sm: 0 1px 2px rgba(27, 27, 24, 0.04);
+  --shadow-md: 0 4px 16px rgba(27, 27, 24, 0.06);
+}
+
+/* ---- Base ---------------------------------------------------------------- */
+
+html, body {
+  background: var(--color-bg);
+  color: var(--color-body);
+  font-family: var(--font-sans);
+}
+
+body {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-primary-tint-border);
+}
+
+/* Thin, quiet scrollbars */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-strong);
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--color-muted); }
+
+/* ---- Sidebar -------------------------------------------------------------- */
+
+.sidebar {
+  background: var(--color-sidebar-bg);
+  border-right: 1px solid var(--color-border);
+  padding-top: 0;
+}
+
+.sidebar .app-name-link {
+  display: block;
+  padding: 22px 24px 16px;
+  font-family: var(--font-sans);
+  font-weight: 800;
+  font-size: 1.05rem;
+  letter-spacing: -0.01em;
+  color: var(--color-ink) !important;
+  text-decoration: none;
+}
+
+.sidebar .search {
+  margin: 0 16px 12px;
+  padding: 0;
+  border-bottom: none;
+}
+
+.sidebar .search .input-wrap {
+  border-top: none;
+  padding: 0;
+}
+
+.sidebar .search input {
+  width: 100%;
+  box-sizing: border-box;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-md);
+  padding: 9px 12px;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--color-ink);
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.sidebar .search input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px var(--color-primary-tint);
+}
+
+.sidebar .search .clear-button {
+  right: 12px;
+}
+
+.sidebar-nav {
+  padding: 4px 12px 40px;
+}
+
+.sidebar-nav > ul > li > a {
+  font-weight: 700;
+  color: var(--color-ink);
+}
+
+.sidebar-nav ul {
+  margin: 0;
+}
+
+.sidebar-nav li {
+  margin: 1px 0;
+}
+
+.sidebar-nav a {
+  display: block;
+  padding: 7px 12px;
+  border-radius: var(--radius-sm);
+  color: var(--color-body);
+  font-size: 0.88rem;
+  line-height: 1.4;
+  text-decoration: none;
+  border-left: 2px solid transparent;
+  transition: background-color 0.12s ease, color 0.12s ease;
+}
+
+.sidebar-nav a:hover {
+  background: rgba(27, 27, 24, 0.04);
+  color: var(--color-ink);
+}
+
+.sidebar-nav li.active > a {
+  color: var(--color-primary-dark);
+  font-weight: 700;
+  background: var(--color-primary-tint);
+  border-left-color: var(--color-primary);
+}
+
+.sidebar-toggle {
+  background: var(--color-sidebar-bg);
+  border-right: 1px solid var(--color-border);
+}
+
+.sidebar-toggle span {
+  background-color: var(--color-ink);
+}
+
+/* GitHub corner ribbon, recolored to match the brand accent */
+.github-corner svg {
+  fill: var(--color-primary);
+  color: var(--color-bg);
+}
+
+/* ---- Content layout -------------------------------------------------------- */
+
+.content {
+  background: var(--color-bg);
+}
+
+.markdown-section {
+  max-width: 42rem;
+  padding: 48px 40px 80px;
+}
+
+@media (min-width: 1200px) {
+  .markdown-section { padding: 56px 48px 96px; }
+}
+
+/* ---- Typography ------------------------------------------------------------ */
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4 {
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  font-weight: 800;
+  letter-spacing: -0.015em;
+  scroll-margin-top: 24px;
+}
+
+.markdown-section h1 {
+  font-size: 2.1rem;
+  line-height: 1.2;
+  margin: 0 0 24px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.markdown-section h2 {
+  font-size: 1.45rem;
+  margin: 44px 0 16px;
+}
+
+.markdown-section h3 {
+  font-size: 1.15rem;
+  margin: 32px 0 12px;
+}
+
+.markdown-section h4 {
+  font-size: 1rem;
+  margin: 24px 0 10px;
+}
+
+.markdown-section p,
+.markdown-section ul,
+.markdown-section ol {
+  font-size: 0.98rem;
+  line-height: 1.75;
+  color: var(--color-body);
+}
+
+.markdown-section strong {
+  color: var(--color-ink);
+  font-weight: 700;
+}
+
+.markdown-section a {
+  color: var(--color-primary-dark);
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-primary-tint-border);
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.markdown-section a:hover {
+  color: var(--color-primary);
+  border-bottom-color: var(--color-primary);
+}
+
+.markdown-section > p:last-of-type {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid var(--color-border);
+  color: var(--color-muted);
+  font-size: 0.92rem;
+}
+
+/* ---- Callouts (blockquotes) ------------------------------------------------ */
+
+.markdown-section blockquote {
+  margin: 20px 0;
+  padding: 14px 18px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-left: 3px solid var(--color-primary);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+.markdown-section blockquote p {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--color-body);
+}
+
+/* ---- Code ------------------------------------------------------------------ */
+
+.markdown-section code {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  background: var(--color-primary-tint);
+  color: var(--color-primary-dark);
+  border-radius: 4px;
+  padding: 2px 6px;
+}
+
+.markdown-section pre {
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  border: 1px solid #2a2a26;
+}
+
+.markdown-section pre > code {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  line-height: 1.65;
+  background: transparent;
+  color: inherit;
+  padding: 0;
+  border-radius: 0;
+}
+
+.markdown-section pre::before {
+  display: none;
+}
+
+/* Copy-code button */
+.docsify-copy-code-button {
+  border-radius: var(--radius-sm) !important;
+  font-family: var(--font-sans) !important;
+}
+
+/* ---- Tables ----------------------------------------------------------------- */
+
+.markdown-section table {
+  display: table;
+  width: 100%;
+  margin: 20px 0;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.markdown-section table tr {
+  border-top: 1px solid var(--color-border);
+}
+
+.markdown-section table th {
+  background: var(--color-sidebar-bg);
+  color: var(--color-ink);
+  font-weight: 700;
+  text-align: left;
+  padding: 10px 14px;
+}
+
+.markdown-section table td {
+  padding: 10px 14px;
+  color: var(--color-body);
+}
+
+/* ---- Search results panel --------------------------------------------------- */
+
+.results-panel {
+  font-family: var(--font-sans);
+}
+
+.results-panel .search-keyword {
+  color: var(--color-primary-dark);
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* ---- Small screens ----------------------------------------------------------- */
+
+@media (max-width: 768px) {
+  .markdown-section { padding: 32px 20px 64px; }
+}
