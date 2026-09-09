@@ -41,4 +41,4 @@ Choose a controller over 50 lines long from one of this training's mini-projects
 
 *(Reflective module — an indicative answer key is provided to guide your thinking.)*
 
-See [solutions/README.md](solutions/README.md).
+See [solutions/README.md](solutions/README.en.md).

@@ -24,4 +24,4 @@ The [Classifieds Platform mini-project](../../07-laravel-intermediaire/projet-mi
 
 *(Since this module is reflective, there are no fixed "solutions" to compare against — but an indicative answer key is provided to guide your thinking.)*
 
-See [solutions/README.md](solutions/README.md).
+See [solutions/README.md](solutions/README.en.md).
