@@ -22,4 +22,4 @@ Draw (in ASCII, or as a structured text description in a `FLUX.md` file) the 4 s
 
 ---
 
-See [solutions/README.md](solutions/README.md) for the answer key.
+See [solutions/README.md](solutions/README.en.md) for the answer key.
