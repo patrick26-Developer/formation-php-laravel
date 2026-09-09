@@ -22,4 +22,4 @@ Reuse `LivreRepository` from [module 02.9](../../02-php-intermediaire/09-crud-co
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

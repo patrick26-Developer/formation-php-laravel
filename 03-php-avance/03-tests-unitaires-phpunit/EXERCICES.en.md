@@ -24,4 +24,4 @@ Create a `ServiceEmail` class with a method `envoyer(string $destinataire, strin
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

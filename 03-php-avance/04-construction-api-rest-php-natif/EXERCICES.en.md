@@ -22,4 +22,4 @@ Assemble all the previous exercises into a single mini-API with a simple router 
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.
