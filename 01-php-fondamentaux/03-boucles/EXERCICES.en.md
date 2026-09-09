@@ -32,4 +32,4 @@ Then modify your code so it works with any height passed in a `$hauteur` variabl
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

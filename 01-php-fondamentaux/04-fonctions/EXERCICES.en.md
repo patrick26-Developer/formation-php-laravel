@@ -47,4 +47,4 @@ Then explain in a comment in which case an arrow function is **not** suitable (h
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

@@ -22,4 +22,4 @@ Write a script that, given a paragraph of text, prints: the number of words (`ex
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

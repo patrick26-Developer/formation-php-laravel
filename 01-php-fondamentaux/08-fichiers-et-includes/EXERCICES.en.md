@@ -22,4 +22,4 @@ Create `partials/header.php` and `partials/footer.php` (simple HTML), and an `in
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

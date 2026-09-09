@@ -26,4 +26,4 @@ Create a form with checkboxes (`checkbox`, name="langages[]") allowing several f
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

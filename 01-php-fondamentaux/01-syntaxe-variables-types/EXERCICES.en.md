@@ -1,6 +1,6 @@
 # Exercises — 01.1 Syntax, Variables and Types
 
-> Create one `.php` file per exercise in a personal working folder (e.g. `mon-parcours/01-1/`), run it with `php -S localhost:8000` or `php file-name.php`, then compare with [solutions/](solutions/) only after trying.
+> Create one `.php` file per exercise in a personal working folder (e.g. `mon-parcours/01-1/`), run it with `php -S localhost:8000` or `php file-name.php`, then compare with [solutions/](solutions/README.en.md) only after trying.
 
 ## Exercise 1 — My ID card (easy)
 
@@ -55,4 +55,4 @@ echo 'Le total est : $total euros'
 
 ---
 
-Once done, compare your answers with [solutions/](solutions/).
+Once done, compare your answers with [solutions/](solutions/README.en.md).

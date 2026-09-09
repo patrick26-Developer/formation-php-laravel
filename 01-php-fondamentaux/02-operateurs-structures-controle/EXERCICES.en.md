@@ -31,4 +31,4 @@ Simulate a menu where `$plat` can be `"entree"`, `"plat"`, `"dessert"`, or somet
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

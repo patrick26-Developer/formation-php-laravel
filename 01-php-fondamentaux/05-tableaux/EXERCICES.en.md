@@ -28,4 +28,4 @@ Reuse the students array from exercise 4. Use `usort()` with a custom comparison
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.
