@@ -22,4 +22,4 @@ Create a route group prefixed `admin` with `admin.*` naming, containing at least
 
 ---
 
-See [solutions/README.md](solutions/README.md) for the answer key.
+See [solutions/README.md](solutions/README.en.md) for the answer key.

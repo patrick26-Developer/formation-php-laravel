@@ -22,4 +22,4 @@ Change `APP_NAME` in `.env`, run `php artisan config:clear`, then check via Tink
 
 ---
 
-See [solutions/README.md](solutions/README.md) for the commented answer key to each exercise.
+See [solutions/README.md](solutions/README.en.md) for the commented answer key to each exercise.
