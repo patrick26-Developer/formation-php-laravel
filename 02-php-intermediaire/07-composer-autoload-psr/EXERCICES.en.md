@@ -24,4 +24,4 @@ Delete your `vendor/` folder (simulating "a new developer cloning the project").
 
 ---
 
-Compare with [solutions/](solutions/) once done — the solution there is provided as a complete, minimal Composer project, ready to inspect.
+Compare with [solutions/](solutions/README.en.md) once done — the solution there is provided as a complete, minimal Composer project, ready to inspect.

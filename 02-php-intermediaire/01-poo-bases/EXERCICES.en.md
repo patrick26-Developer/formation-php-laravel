@@ -22,4 +22,4 @@ Create a `Panier` class with a private `articles` property (array, initialized e
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

@@ -33,4 +33,4 @@ Write a command-line script that accepts arguments (`php script.php --tri=titre 
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

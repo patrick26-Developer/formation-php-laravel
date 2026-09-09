@@ -33,4 +33,4 @@ Create a `ConnexionBaseDeDonnees` class (Singleton, as in the lesson) that centr
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

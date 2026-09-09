@@ -22,4 +22,4 @@ Reuse the lesson's `FormeGeometrique` example, add a `Triangle` class (base, hei
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

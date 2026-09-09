@@ -22,4 +22,4 @@ Create a class `ValidationException extends Exception` that stores an array of e
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

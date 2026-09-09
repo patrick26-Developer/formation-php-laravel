@@ -24,4 +24,4 @@ Create a file `exiger-connexion.php` containing a function `exigerConnexion(): v
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.
