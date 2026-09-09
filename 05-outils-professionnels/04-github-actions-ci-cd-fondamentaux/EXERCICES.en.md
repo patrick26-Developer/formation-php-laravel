@@ -24,4 +24,4 @@ Create a workflow with two separate jobs: `tests` (PHPUnit) and `qualite` (a com
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

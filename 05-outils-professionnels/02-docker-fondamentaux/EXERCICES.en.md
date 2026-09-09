@@ -22,4 +22,4 @@ Compare the size of the images produced by `php:8.3-apache` (the "full" image) a
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.

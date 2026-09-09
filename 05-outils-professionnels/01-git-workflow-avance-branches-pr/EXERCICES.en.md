@@ -24,4 +24,4 @@ Start editing a file without committing. Without losing this work, switch to ano
 
 ---
 
-Compare with [solutions/](solutions/) once done — each solution there is a commented transcript of the expected commands.
+Compare with [solutions/](solutions/README.en.md) once done — each solution there is a commented transcript of the expected commands.

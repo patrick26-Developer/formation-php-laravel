@@ -22,4 +22,4 @@ Add two extra steps to the GitHub Actions workflow from [module 05.4, exercise 2
 
 ---
 
-Compare with [solutions/](solutions/) once done.
+Compare with [solutions/](solutions/README.en.md) once done.
