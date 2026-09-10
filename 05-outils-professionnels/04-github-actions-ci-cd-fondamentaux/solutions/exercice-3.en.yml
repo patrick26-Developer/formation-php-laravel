@@ -1,0 +1,26 @@
+name: Multi-version tests
+
+on: [push, pull_request]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        php-version: ['8.2', '8.3']
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install PHP ${{ matrix.php-version }}
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php-version }}
+
+      - run: composer install --prefer-dist --no-progress
+      - run: ./vendor/bin/phpunit
+
+# GitHub Actions runs this job TWICE in parallel, once per value of
+# matrix.php-version — each run appears separately in the Actions tab
+# (e.g. "tests (8.2)" and "tests (8.3)"), making it easy to immediately
+# spot an incompatibility with a specific PHP version.

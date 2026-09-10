@@ -1,0 +1,28 @@
+name: Tests and quality
+
+on: [push, pull_request]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+      - run: composer install --prefer-dist --no-progress
+      - run: ./vendor/bin/phpunit
+
+      - name: Check PSR-12 style
+        run: ./vendor/bin/php-cs-fixer fix --dry-run --diff
+
+      - name: PHPStan static analysis
+        run: ./vendor/bin/phpstan analyse
+
+# Verification test: push a commit that deliberately introduces
+# non-compliant style (for example "function foo(){" with a glued brace).
+# The "tests" job will keep passing if PHPUnit succeeds, but the
+# "Check PSR-12 style" step will specifically fail (--dry-run detects
+# the non-compliance without fixing it), turning the overall job red at
+# THIS exact step — clearly visible in the Actions tab, distinct from a
+# functional test failure.

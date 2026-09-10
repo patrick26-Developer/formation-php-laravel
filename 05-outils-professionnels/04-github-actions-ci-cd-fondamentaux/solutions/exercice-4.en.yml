@@ -1,0 +1,24 @@
+name: MySQL check
+
+on: push
+
+jobs:
+  verifier-mysql:
+    runs-on: ubuntu-latest
+
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_DATABASE: test_db
+          MYSQL_ROOT_PASSWORD: secret
+        ports:
+          - 3306:3306
+        options: --health-cmd="mysqladmin ping" --health-interval=5s --health-retries=10
+
+    steps:
+      - name: Install the MySQL client
+        run: sudo apt-get install -y mysql-client
+
+      - name: Check the connection to the MySQL service
+        run: mysql -h 127.0.0.1 -uroot -psecret -e "SELECT 1"
