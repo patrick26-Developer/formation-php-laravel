@@ -51,5 +51,6 @@ projet-mini-03-blog-crud-laravel/
 2. [EXECUTION.md](EXECUTION.md) — lancer le serveur et parcourir le blog.
 3. **Avant de lire le code fourni**, essayez de construire vous-même `ArticleController::index()` avec tri/filtre/recherche à partir du module 06.7.
 4. [JOURNAL.md](JOURNAL.md) — la démarche complète de construction.
+5. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Niveau 07 — Laravel Intermédiaire](../../07-laravel-intermediaire/README.md)

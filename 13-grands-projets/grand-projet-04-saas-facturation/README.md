@@ -45,5 +45,6 @@ grand-projet-04-saas-facturation/
 2. [EXECUTION.md](EXECUTION.md) — lancez d'abord `LimitePlanTest` et `BillingServiceTest`.
 3. **Avant de lire le code fourni**, essayez de concevoir vous-même `PlanLimitService::verifierLimiteProjets()`.
 4. [JOURNAL.md](JOURNAL.md) — la démarche complète de construction, notamment la décision transactionnelle du `BillingService`.
+5. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Ce grand projet clôt la partie pratique de la formation.** Suite : [Niveau 14 — Préparation professionnelle](../../14-preparation-professionnelle/README.md)

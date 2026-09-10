@@ -38,5 +38,6 @@ projet-02-api-consommation-externe/
 1. [INSTALLATION.md](INSTALLATION.md).
 2. [EXECUTION.md](EXECUTION.md).
 3. [JOURNAL.md](JOURNAL.md) — la démarche de construction.
+4. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Projet : Outil CLI avec Artisan](../projet-03-outil-ligne-de-commande-artisan/README.md)

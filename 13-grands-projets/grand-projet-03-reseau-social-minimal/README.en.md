@@ -44,5 +44,6 @@ grand-projet-03-reseau-social-minimal/
 2. [EXECUTION.md](EXECUTION.en.md) — start with `FeedTest`.
 3. **Before reading the provided code**, try designing `following()`/`followers()` yourself, based on module 07.1.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process.
+5. [CODE.md](CODE.en.md) — the project's complete source code, to browse and copy at any time.
 
 **Next in the path:** [Large Project: Multi-tenant Billing SaaS](../grand-projet-04-saas-facturation/README.en.md)

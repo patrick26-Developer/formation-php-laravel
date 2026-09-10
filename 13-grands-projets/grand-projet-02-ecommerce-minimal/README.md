@@ -46,5 +46,6 @@ grand-projet-02-ecommerce-minimal/
 2. [EXECUTION.md](EXECUTION.md) — **commencez par lancer `CheckoutTest`**, le cœur du projet.
 3. **Avant de lire le code fourni**, essayez de concevoir vous-même la transaction de `OrderService::passerCommande()`.
 4. [JOURNAL.md](JOURNAL.md) — la démarche complète de construction.
+5. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Grand projet : Réseau social minimal](../grand-projet-03-reseau-social-minimal/README.md)

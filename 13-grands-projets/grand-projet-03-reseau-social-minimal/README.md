@@ -44,5 +44,6 @@ grand-projet-03-reseau-social-minimal/
 2. [EXECUTION.md](EXECUTION.md) — commencez par `FeedTest`.
 3. **Avant de lire le code fourni**, essayez de concevoir vous-même `following()`/`followers()` à partir du module 07.1.
 4. [JOURNAL.md](JOURNAL.md) — la démarche complète de construction.
+5. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Grand projet : SaaS de facturation multi-tenant](../grand-projet-04-saas-facturation/README.md)

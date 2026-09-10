@@ -46,5 +46,6 @@ projet-mini-07-dashboard-admin-livewire/
 2. [EXECUTION.md](EXECUTION.md) — utiliser le dashboard, observer la réactivité sans rechargement de page.
 3. **Avant de lire le code fourni**, essayez de construire vous-même la communication par événement entre les deux composants, à partir du module 10.2.
 4. [JOURNAL.md](JOURNAL.md) — la démarche complète de construction.
+5. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Niveau 11 — DevOps avancé](../../11-devops-docker-cicd-avance/README.md)

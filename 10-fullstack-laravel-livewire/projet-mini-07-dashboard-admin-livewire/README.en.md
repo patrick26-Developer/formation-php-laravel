@@ -46,5 +46,6 @@ projet-mini-07-dashboard-admin-livewire/
 2. [EXECUTION.md](EXECUTION.en.md) — use the dashboard, observe reactivity with no page reload.
 3. **Before reading the provided code**, try building the event-based communication between the two components yourself, based on module 10.2.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process.
+5. [CODE.md](CODE.en.md) — the project's complete source code, to browse and copy at any time.
 
 **Next in the path:** [Level 11 — Advanced DevOps](../../11-devops-docker-cicd-avance/README.en.md)

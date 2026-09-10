@@ -45,5 +45,6 @@ projet-mini-06-api-rest-complete/
 2. [EXECUTION.md](EXECUTION.md) — tester l'API avec `curl`, lancer les tests Pest.
 3. **Avant de lire le code fourni**, essayez de construire vous-même `AnnonceResource` à partir du module 09.2.
 4. [JOURNAL.md](JOURNAL.md) — la démarche complète de construction.
+5. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Niveau 10 — Fullstack avec Livewire](../../10-fullstack-laravel-livewire/README.md)

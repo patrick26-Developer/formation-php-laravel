@@ -55,5 +55,6 @@ projet-mini-02-gestion-taches-crud-pdo/
 2. Lisez [EXECUTION.md](EXECUTION.md) pour lancer l'application et vous connecter.
 3. **Avant de lire le code fourni**, essayez de construire vous-même `TacheRepository::lister()` avec tri/filtre/recherche, à partir du module 02.9.
 4. Consultez [JOURNAL.md](JOURNAL.md) pour voir la démarche complète de construction.
+5. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Niveau 03 — PHP Avancé](../../03-php-avance/README.md)

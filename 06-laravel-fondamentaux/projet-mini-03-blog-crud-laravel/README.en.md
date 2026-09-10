@@ -51,5 +51,6 @@ projet-mini-03-blog-crud-laravel/
 2. [EXECUTION.md](EXECUTION.en.md) — start the server and browse the blog.
 3. **Before reading the provided code**, try building `ArticleController::index()` with sort/filter/search yourself, based on module 06.7.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process.
+5. [CODE.md](CODE.en.md) — the project's complete source code, to browse and copy at any time.
 
 **Next in the path:** [Level 07 — Intermediate Laravel](../../07-laravel-intermediaire/README.en.md)

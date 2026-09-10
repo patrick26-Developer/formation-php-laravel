@@ -52,5 +52,6 @@ projet-mini-04-plateforme-annonces/
 2. [EXECUTION.md](EXECUTION.md) — parcourir la plateforme, tester les autorisations et les notifications.
 3. **Avant de lire le code fourni**, essayez de construire vous-même `AnnoncePolicy` et son branchement dans le contrôleur, à partir du module 07.5.
 4. [JOURNAL.md](JOURNAL.md) — la démarche complète de construction.
+5. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Niveau 08 — Laravel Avancé](../../08-laravel-avance/README.md)

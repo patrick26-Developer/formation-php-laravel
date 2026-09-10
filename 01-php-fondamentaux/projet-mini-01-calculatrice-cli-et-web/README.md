@@ -41,5 +41,6 @@ projet-mini-01-calculatrice-cli-et-web/
 2. Lisez [EXECUTION.md](EXECUTION.md) pour lancer les deux interfaces.
 3. **Avant de lire le code fourni**, essayez de recoder vous-même `src/Calculatrice.php` à partir des modules du niveau 01.
 4. Consultez [JOURNAL.md](JOURNAL.md) pour voir comment ce projet a été construit dans l'ordre, et comparez avec votre propre démarche.
+5. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Niveau 02 — PHP Intermédiaire](../../02-php-intermediaire/README.md)

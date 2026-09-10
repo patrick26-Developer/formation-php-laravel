@@ -56,5 +56,6 @@ grand-projet-01-mini-framework-mvc-avec-api/
 2. [EXECUTION.md](EXECUTION.en.md) — start the web server, run the tests, and test the API with `curl`.
 3. **Before reading the provided code**, try building `Routeur` and `TacheApiController` yourself, based on modules 03.2 and 03.4.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process, in order.
+5. [CODE.md](CODE.en.md) — the project's complete source code, to browse and copy at any time.
 
 **Next in the path:** [Level 04 — Databases in Depth](../../04-bases-de-donnees-approfondi/README.en.md)

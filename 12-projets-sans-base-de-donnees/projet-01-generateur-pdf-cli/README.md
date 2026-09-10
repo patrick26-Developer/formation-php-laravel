@@ -37,5 +37,6 @@ projet-01-generateur-pdf-cli/
 1. [INSTALLATION.md](INSTALLATION.md).
 2. [EXECUTION.md](EXECUTION.md).
 3. [JOURNAL.md](JOURNAL.md) — la démarche de construction.
+4. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Projet : Consommation d'une API externe](../projet-02-api-consommation-externe/README.md)

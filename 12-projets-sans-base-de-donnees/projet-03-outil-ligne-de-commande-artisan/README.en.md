@@ -37,5 +37,6 @@ projet-03-outil-ligne-de-commande-artisan/
 1. [INSTALLATION.md](INSTALLATION.en.md).
 2. [EXECUTION.md](EXECUTION.en.md).
 3. [JOURNAL.md](JOURNAL.en.md) — the build process.
+4. [CODE.md](CODE.en.md) — the project's complete source code, to browse and copy at any time.
 
 **Next in the path:** [Level 13 — Complete Minimal Large Projects](../../13-grands-projets/README.en.md)

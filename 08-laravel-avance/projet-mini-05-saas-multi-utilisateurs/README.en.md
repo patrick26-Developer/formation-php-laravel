@@ -53,5 +53,6 @@ projet-mini-05-saas-multi-utilisateurs/
 2. [EXECUTION.md](EXECUTION.en.md) — including **running the test suite**, the best way to understand this project.
 3. **Before reading the provided code**, try writing `Project`'s global scope yourself, based on module 08.5.
 4. [JOURNAL.md](JOURNAL.en.md) — the full build process.
+5. [CODE.md](CODE.en.md) — the project's complete source code, to browse and copy at any time.
 
 **Next in the path:** [Level 09 — REST API with Laravel](../../09-api-rest-laravel/README.en.md)

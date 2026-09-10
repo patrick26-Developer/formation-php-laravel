@@ -53,5 +53,6 @@ projet-mini-05-saas-multi-utilisateurs/
 2. [EXECUTION.md](EXECUTION.md) — y compris **lancer la suite de tests**, la meilleure façon de comprendre ce projet.
 3. **Avant de lire le code fourni**, essayez d'écrire vous-même le scope global de `Project` à partir du module 08.5.
 4. [JOURNAL.md](JOURNAL.md) — la démarche complète de construction.
+5. [CODE.md](CODE.md) — le code source complet du projet, à consulter et copier à tout moment.
 
 **Suite du parcours :** [Niveau 09 — API REST avec Laravel](../../09-api-rest-laravel/README.md)

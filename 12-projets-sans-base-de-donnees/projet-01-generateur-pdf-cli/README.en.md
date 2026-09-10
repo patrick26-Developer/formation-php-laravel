@@ -37,5 +37,6 @@ projet-01-generateur-pdf-cli/
 1. [INSTALLATION.md](INSTALLATION.en.md).
 2. [EXECUTION.md](EXECUTION.en.md).
 3. [JOURNAL.md](JOURNAL.en.md) — the build process.
+4. [CODE.md](CODE.en.md) — the project's complete source code, to browse and copy at any time.
 
 **Next in the path:** [Project: Consuming an External API](../projet-02-api-consommation-externe/README.en.md)
